@@ -34,10 +34,14 @@ function unlock(){const a=active();if(!U){U={date:dkey(),ids:[]};}
  if(U.date!==dkey()||!U.ids.length){const left=a.filter(w=>U.ids.includes(w.id)&&!P[w.id]).length;let n=Math.max(0,DAILY-left);
   for(const w of a){if(!n)break;if(!U.ids.includes(w.id)&&!P[w.id]){U.ids.push(w.id);n--}}U.date=dkey();localStorage.setItem(UKEY,JSON.stringify(U))}}
 function queue(){unlock();return active().filter(w=>{const s=st(w);return (s.status==='new'&&(P[w.id]||U.ids.includes(w.id)))||(s.status==='review'&&s.due<=today())})}
-function know(w){P[w.id]={status:'learned',level:INTERVALS.length,due:0};save();flipped=false;render()}
-function learned(w){const s=st(w);if(s.level>=INTERVALS.length){P[w.id]={status:'learned',level:s.level,due:0}}else{P[w.id]={status:'review',level:s.level+1,due:today()+INTERVALS[s.level]*DAY}}save();flipped=false;render()}
-function again(w){P[w.id]={status:'review',level:0,due:today()+INTERVALS[0]*DAY};save();flipped=false;render()}
-function restore(id){P[id]={status:'new',level:0,due:0};save();render()}
+function know(w){P[w.id]={status:'learned',level:INTERVALS.length,due:0,ls:Date.now()};save();flipped=false;render()}
+function learned(w){const s=st(w);if(s.level>=INTERVALS.length){P[w.id]={status:'learned',level:s.level,due:0,ls:Date.now()}}else{P[w.id]={status:'review',level:s.level+1,due:today()+INTERVALS[s.level]*DAY,ls:Date.now()}}save();flipped=false;render()}
+function again(w){P[w.id]={status:'review',level:0,due:today()+INTERVALS[0]*DAY,ls:Date.now()};save();flipped=false;render()}
+let prac=null;
+const studied=w=>{const s=st(w);return s.ls||(s.due-INTERVALS[Math.max(s.level-1,0)]*DAY)};
+function pracStart(){const R=active().filter(w=>st(w).status==='review').sort((x,y)=>studied(y)-studied(x));if(!R.length)return;prac={ids:R.map(w=>w.id),i:0};flipped=false;render()}
+function pracNext(forgot){const w=words.find(x=>x.id===prac.ids[prac.i]);if(forgot&&w)prac.ids.push(w.id);prac.i++;flipped=false;if(prac.i>=prac.ids.length)prac=null;render()}
+function restore(id){P[id]={status:'new',level:0,due:0,ls:Date.now()};save();render()}
 const fmt=t=>new Date(t).toLocaleDateString('uk-UA',{day:'numeric',month:'short'});
 function say(t){const s=window.speechSynthesis;if(!s)return;s.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=0.9;const v=s.getVoices().find(v=>v.lang==='en-US'||v.lang==='en_US');if(v)u.voice=v;s.speak(u)}
 function render(){
@@ -51,14 +55,19 @@ function render(){
   m.innerHTML=`<div class="card" id="card"><div class="word">${esc(w.word)} <button class="spk" id="sw">🔊</button></div><div class="ex">${esc(w.example_en)} <button class="spk" id="se">🔊</button></div>${flipped?`<div class="tr">${esc(w.translation_uk)}</div><div class="ex">${esc(w.example_uk||'')}</div>`:'<div class="hint">Торкніться, щоб побачити переклад</div>'}</div>
   <div class="acts"><button class="again" id="ag">Повторити</button><button class="ok" id="ok">Вивчив</button></div><div style="text-align:center;margin-top:10px"><button class="know" id="kn">Знаю</button></div><div class="hint" style="text-align:center">Залишилось: ${q.length}</div>`;
   card.onclick=()=>{flipped=!flipped;render()};sw.onclick=e=>{e.stopPropagation();say(w.word)};se.onclick=e=>{e.stopPropagation();say(w.example_en)};ok.onclick=()=>learned(w);kn.onclick=()=>know(w);ag.onclick=()=>again(w);
+ }else if(tab==='review'&&prac){
+  const w=words.find(x=>x.id===prac.ids[prac.i]);if(!w){prac=null;return render()}
+  m.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px"><span class="stats" id="pc">Картка ${prac.i+1} з ${prac.ids.length}</span><button class="small" id="px">✕ Вийти</button></div><div class="card" id="card"><div class="word">${esc(w.word)} <button class="spk" id="sw">🔊</button></div><div class="ex">${esc(w.example_en)} <button class="spk" id="se">🔊</button></div>${flipped?`<div class="tr">${esc(w.translation_uk)}</div><div class="ex">${esc(w.example_uk||'')}</div>`:'<div class="hint">Торкніться, щоб побачити переклад</div>'}</div><div class="acts"><button class="again" id="pf">Не памʼятаю</button><button class="ok" id="pk">Знаю</button></div>`;
+  card.onclick=()=>{flipped=!flipped;render()};sw.onclick=e=>{e.stopPropagation();say(w.word)};se.onclick=e=>{e.stopPropagation();say(w.example_en)};pk.onclick=()=>pracNext(false);pf.onclick=()=>pracNext(true);px.onclick=()=>{prac=null;flipped=false;render()};
  }else if(tab==='review'){
-  m.innerHTML=R.length?R.sort((x,y)=>st(x).due-st(y).due).map(w=>`<div class="item"><div><b>${esc(w.word)}</b><span>${esc(w.translation_uk)} · ${st(w).due<=today()?'сьогодні':fmt(st(w).due)}</span></div></div>`).join(''):'<div class="empty">Немає слів на повторення</div>';
+  m.innerHTML=R.length?'<button class="ok" id="pstart" style="width:100%;min-height:58px;border:0;border-radius:16px;font-size:17px;font-weight:700;margin-bottom:14px">▶ Повторити все картками</button>'+R.sort((x,y)=>st(x).due-st(y).due).map(w=>`<div class="item"><div><b>${esc(w.word)}</b><span>${esc(w.translation_uk)} · ${st(w).due<=today()?'сьогодні':fmt(st(w).due)}</span></div></div>`).join(''):'<div class="empty">Немає слів на повторення</div>';
+  const ps=document.getElementById('pstart');if(ps)ps.onclick=pracStart;
  }else{
   m.innerHTML=L.length?L.map(w=>`<div class="item"><div><b>${esc(w.word)}</b><span>${esc(w.translation_uk)}</span></div><button class="small" data-id="${w.id}">Вчити знову</button></div>`).join(''):'<div class="empty">Ще немає вивчених слів</div>';
   m.querySelectorAll('[data-id]').forEach(b=>b.onclick=()=>restore(+b.dataset.id));
  }
 }
-document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{tab=b.dataset.t;flipped=false;render()});
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{tab=b.dataset.t;flipped=false;prac=null;render()});
 render();
 Promise.all([fetch('words.json').then(r=>r.json()),fetch('known.json').then(r=>r.json()).catch(()=>[])]).then(([w,k])=>{if(Array.isArray(w)&&w.length)words=w;known=(k||[]).map(s=>String(s).toLowerCase());render()}).catch(()=>{});
 
