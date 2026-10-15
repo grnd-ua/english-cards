@@ -1,0 +1,4074 @@
+[
+  {
+    "id": 1,
+    "word": "scope",
+    "translation_uk": "обсяг робіт",
+    "example_en": "Let's agree on the scope first.",
+    "added_date": "2026-10-15",
+    "example_uk": "Давайте спершу узгодимо обсяг робіт."
+  },
+  {
+    "id": 2,
+    "word": "deliverable",
+    "translation_uk": "результат, який здаємо",
+    "example_en": "The main deliverable is a production-ready app.",
+    "added_date": "2026-10-15",
+    "example_uk": "Основний результат — готовий до продакшну застосунок."
+  },
+  {
+    "id": 3,
+    "word": "audit",
+    "translation_uk": "аудит",
+    "example_en": "We start with a two-week code audit.",
+    "added_date": "2026-10-15",
+    "example_uk": "Ми починаємо з двотижневого аудиту коду."
+  },
+  {
+    "id": 4,
+    "word": "retainer",
+    "translation_uk": "щомісячна оплата за постійну роботу",
+    "example_en": "After launch, we can continue on a monthly retainer.",
+    "added_date": "2026-10-15",
+    "example_uk": "Після запуску ми можемо продовжити на щомісячній оплаті."
+  },
+  {
+    "id": 5,
+    "word": "handover",
+    "translation_uk": "передача проєкту",
+    "example_en": "Handover includes docs and a call with your team.",
+    "added_date": "2026-10-15",
+    "example_uk": "Передача проєкту включає документацію та дзвінок з вашою командою."
+  },
+  {
+    "id": 6,
+    "word": "reliable",
+    "translation_uk": "надійний",
+    "example_en": "We make prototypes reliable enough for real users.",
+    "added_date": "2026-10-15",
+    "example_uk": "Ми робимо прототипи достатньо надійними для реальних користувачів."
+  },
+  {
+    "id": 7,
+    "word": "bottleneck",
+    "translation_uk": "вузьке місце",
+    "example_en": "The database is the main bottleneck right now.",
+    "added_date": "2026-10-15",
+    "example_uk": "Зараз база даних — головне вузьке місце."
+  },
+  {
+    "id": 8,
+    "word": "to follow up",
+    "translation_uk": "нагадати, продовжити розмову",
+    "example_en": "Just following up on my last email.",
+    "added_date": "2026-10-15",
+    "example_uk": "Просто нагадую про мій попередній лист."
+  },
+  {
+    "id": 9,
+    "word": "to clarify",
+    "translation_uk": "уточнити",
+    "example_en": "Could you clarify what \"done\" means for you?",
+    "added_date": "2026-10-15",
+    "example_uk": "Чи могли б ви уточнити, що для вас означає «готово»?"
+  },
+  {
+    "id": 10,
+    "word": "proposal",
+    "translation_uk": "комерційна пропозиція",
+    "example_en": "I'll send you the proposal by Friday.",
+    "example_uk": "Я надішлю вам комерційну пропозицію до п'ятниці.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 11,
+    "word": "quote",
+    "translation_uk": "кошторис, цінова пропозиція",
+    "example_en": "Here is our quote for the first phase.",
+    "example_uk": "Ось наш кошторис на першу фазу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 12,
+    "word": "milestone",
+    "translation_uk": "етап, контрольна точка",
+    "example_en": "We invoice after each milestone.",
+    "example_uk": "Ми виставляємо рахунок після кожного етапу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 13,
+    "word": "deadline",
+    "translation_uk": "кінцевий термін, дедлайн",
+    "example_en": "The deadline is tight but realistic.",
+    "example_uk": "Дедлайн жорсткий, але реалістичний.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 14,
+    "word": "timeline",
+    "translation_uk": "графік, часові рамки",
+    "example_en": "Our timeline for the MVP is eight weeks.",
+    "example_uk": "Наш графік для MVP — вісім тижнів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 15,
+    "word": "requirements",
+    "translation_uk": "вимоги",
+    "example_en": "We need clear requirements before we start.",
+    "example_uk": "Нам потрібні чіткі вимоги до початку роботи.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 16,
+    "word": "stakeholder",
+    "translation_uk": "зацікавлена сторона",
+    "example_en": "Who are the key stakeholders on your side?",
+    "example_uk": "Хто ключові зацікавлені сторони з вашого боку?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 17,
+    "word": "invoice",
+    "translation_uk": "рахунок-фактура",
+    "example_en": "I've attached the invoice for October.",
+    "example_uk": "Я додав рахунок за жовтень.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 18,
+    "word": "contract",
+    "translation_uk": "договір",
+    "example_en": "Our lawyer will review the contract.",
+    "example_uk": "Наш юрист перегляне договір.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 19,
+    "word": "agreement",
+    "translation_uk": "угода, домовленість",
+    "example_en": "We reached an agreement on the price.",
+    "example_uk": "Ми дійшли згоди щодо ціни.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 20,
+    "word": "budget",
+    "translation_uk": "бюджет",
+    "example_en": "What budget do you have in mind?",
+    "example_uk": "Який бюджет ви розглядаєте?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 21,
+    "word": "fixed price",
+    "translation_uk": "фіксована ціна",
+    "example_en": "We can do this project at a fixed price.",
+    "example_uk": "Ми можемо зробити цей проєкт за фіксованою ціною.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 22,
+    "word": "hourly rate",
+    "translation_uk": "погодинна ставка",
+    "example_en": "Our hourly rate depends on the seniority.",
+    "example_uk": "Наша погодинна ставка залежить від рівня спеціаліста.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 23,
+    "word": "sprint",
+    "translation_uk": "спринт",
+    "example_en": "Each sprint takes two weeks.",
+    "example_uk": "Кожен спринт триває два тижні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 24,
+    "word": "backlog",
+    "translation_uk": "беклог, список задач",
+    "example_en": "Let's add this feature to the backlog.",
+    "example_uk": "Давайте додамо цю функцію в беклог.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 25,
+    "word": "roadmap",
+    "translation_uk": "дорожня карта, план розвитку",
+    "example_en": "We'll share a product roadmap next week.",
+    "example_uk": "Наступного тижня ми поділимося планом розвитку продукту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 26,
+    "word": "priority",
+    "translation_uk": "пріоритет",
+    "example_en": "Performance is our top priority now.",
+    "example_uk": "Продуктивність зараз наш головний пріоритет.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 27,
+    "word": "to prioritize",
+    "translation_uk": "розставити пріоритети",
+    "example_en": "We should prioritize the payment flow.",
+    "example_uk": "Нам варто зробити пріоритетом процес оплати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 28,
+    "word": "feedback",
+    "translation_uk": "відгук, зворотний зв'язок",
+    "example_en": "Thanks for the quick feedback!",
+    "example_uk": "Дякую за швидкий відгук!",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 29,
+    "word": "approval",
+    "translation_uk": "погодження, схвалення",
+    "example_en": "We're waiting for your approval to start.",
+    "example_uk": "Ми чекаємо на ваше погодження, щоб почати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 30,
+    "word": "to approve",
+    "translation_uk": "погодити, затвердити",
+    "example_en": "Could you approve the design by Monday?",
+    "example_uk": "Чи могли б ви погодити дизайн до понеділка?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 31,
+    "word": "sign-off",
+    "translation_uk": "остаточне погодження",
+    "example_en": "We need your sign-off on the final version.",
+    "example_uk": "Нам потрібне ваше остаточне погодження фінальної версії.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 32,
+    "word": "kickoff",
+    "translation_uk": "стартова зустріч",
+    "example_en": "Let's schedule a kickoff call for Tuesday.",
+    "example_uk": "Давайте призначимо стартовий дзвінок на вівторок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 33,
+    "word": "discovery phase",
+    "translation_uk": "етап дослідження",
+    "example_en": "The discovery phase helps us reduce risks.",
+    "example_uk": "Етап дослідження допомагає нам зменшити ризики.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 34,
+    "word": "wireframe",
+    "translation_uk": "вайрфрейм, каркас екрана",
+    "example_en": "Here are the wireframes for the onboarding.",
+    "example_uk": "Ось вайрфрейми для онбордингу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 35,
+    "word": "prototype",
+    "translation_uk": "прототип",
+    "example_en": "We built a clickable prototype in Figma.",
+    "example_uk": "Ми зробили клікабельний прототип у Figma.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 36,
+    "word": "mockup",
+    "translation_uk": "макет",
+    "example_en": "The mockups are ready for review.",
+    "example_uk": "Макети готові до перегляду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 37,
+    "word": "user flow",
+    "translation_uk": "сценарій користувача",
+    "example_en": "This user flow has too many steps.",
+    "example_uk": "У цьому сценарії користувача забагато кроків.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 38,
+    "word": "onboarding",
+    "translation_uk": "онбординг, знайомство з продуктом",
+    "example_en": "We want to simplify the onboarding.",
+    "example_uk": "Ми хочемо спростити онбординг.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 39,
+    "word": "feature",
+    "translation_uk": "функція",
+    "example_en": "This feature is not in the current scope.",
+    "example_uk": "Ця функція не входить у поточний обсяг робіт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 40,
+    "word": "release",
+    "translation_uk": "реліз, випуск",
+    "example_en": "The next release is planned for Monday.",
+    "example_uk": "Наступний реліз заплановано на понеділок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 41,
+    "word": "to launch",
+    "translation_uk": "запустити",
+    "example_en": "We launched the app last month.",
+    "example_uk": "Ми запустили застосунок минулого місяця.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 42,
+    "word": "launch",
+    "translation_uk": "запуск",
+    "example_en": "The launch went smoothly.",
+    "example_uk": "Запуск пройшов гладко.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 43,
+    "word": "to deploy",
+    "translation_uk": "розгорнути, задеплоїти",
+    "example_en": "We deploy to production every Thursday.",
+    "example_uk": "Ми деплоїмо в продакшн щочетверга.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 44,
+    "word": "deployment",
+    "translation_uk": "розгортання",
+    "example_en": "The deployment failed because of a config error.",
+    "example_uk": "Розгортання не вдалося через помилку конфігурації.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 45,
+    "word": "production",
+    "translation_uk": "продакшн, робоче середовище",
+    "example_en": "This bug only happens in production.",
+    "example_uk": "Ця помилка трапляється тільки в продакшні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 46,
+    "word": "staging",
+    "translation_uk": "тестове середовище",
+    "example_en": "Please test it on staging first.",
+    "example_uk": "Будь ласка, спочатку протестуйте це на тестовому середовищі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 47,
+    "word": "bug",
+    "translation_uk": "помилка, баг",
+    "example_en": "We fixed the bug in the login screen.",
+    "example_uk": "Ми виправили помилку на екрані входу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 48,
+    "word": "issue",
+    "translation_uk": "проблема, питання",
+    "example_en": "We found an issue with the payments.",
+    "example_uk": "Ми знайшли проблему з оплатами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 49,
+    "word": "to fix",
+    "translation_uk": "виправити",
+    "example_en": "We'll fix it in the next sprint.",
+    "example_uk": "Ми виправимо це в наступному спринті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 50,
+    "word": "workaround",
+    "translation_uk": "обхідне рішення",
+    "example_en": "For now, there is a simple workaround.",
+    "example_uk": "Поки що є просте обхідне рішення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 51,
+    "word": "technical debt",
+    "translation_uk": "технічний борг",
+    "example_en": "The project has a lot of technical debt.",
+    "example_uk": "У проєкті багато технічного боргу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 52,
+    "word": "legacy code",
+    "translation_uk": "застарілий код",
+    "example_en": "Most of the backend is legacy code.",
+    "example_uk": "Більша частина бекенду — застарілий код.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 53,
+    "word": "to refactor",
+    "translation_uk": "рефакторити, переписати код",
+    "example_en": "We need to refactor this module first.",
+    "example_uk": "Спершу нам треба зробити рефакторинг цього модуля.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 54,
+    "word": "scalable",
+    "translation_uk": "масштабований",
+    "example_en": "The architecture should be scalable.",
+    "example_uk": "Архітектура має бути масштабованою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 55,
+    "word": "to scale",
+    "translation_uk": "масштабувати",
+    "example_en": "Can the system scale to a million users?",
+    "example_uk": "Чи може система масштабуватися до мільйона користувачів?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 56,
+    "word": "performance",
+    "translation_uk": "продуктивність",
+    "example_en": "We improved performance by 40%.",
+    "example_uk": "Ми покращили продуктивність на 40%.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 57,
+    "word": "security",
+    "translation_uk": "безпека",
+    "example_en": "Security is part of every audit.",
+    "example_uk": "Безпека — частина кожного аудиту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 58,
+    "word": "vulnerability",
+    "translation_uk": "вразливість",
+    "example_en": "The audit found two critical vulnerabilities.",
+    "example_uk": "Аудит виявив дві критичні вразливості.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 59,
+    "word": "architecture",
+    "translation_uk": "архітектура",
+    "example_en": "We recommend changing the architecture.",
+    "example_uk": "Ми рекомендуємо змінити архітектуру.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 60,
+    "word": "backend",
+    "translation_uk": "бекенд, серверна частина",
+    "example_en": "The backend is written in Node.js.",
+    "example_uk": "Бекенд написаний на Node.js.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 61,
+    "word": "frontend",
+    "translation_uk": "фронтенд, клієнтська частина",
+    "example_en": "Our frontend team uses React.",
+    "example_uk": "Наша фронтенд-команда використовує React.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 62,
+    "word": "API",
+    "translation_uk": "API, програмний інтерфейс",
+    "example_en": "The API documentation is outdated.",
+    "example_uk": "Документація API застаріла.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 63,
+    "word": "integration",
+    "translation_uk": "інтеграція",
+    "example_en": "The Stripe integration is almost done.",
+    "example_uk": "Інтеграція зі Stripe майже готова.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 64,
+    "word": "to integrate",
+    "translation_uk": "інтегрувати",
+    "example_en": "We can integrate with your CRM.",
+    "example_uk": "Ми можемо інтегруватися з вашою CRM.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 65,
+    "word": "third-party",
+    "translation_uk": "сторонній",
+    "example_en": "We rely on a third-party service for SMS.",
+    "example_uk": "Для SMS ми використовуємо сторонній сервіс.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 66,
+    "word": "database",
+    "translation_uk": "база даних",
+    "example_en": "We moved the database to a bigger server.",
+    "example_uk": "Ми перенесли базу даних на потужніший сервер.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 67,
+    "word": "infrastructure",
+    "translation_uk": "інфраструктура",
+    "example_en": "Who manages your cloud infrastructure?",
+    "example_uk": "Хто керує вашою хмарною інфраструктурою?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 68,
+    "word": "uptime",
+    "translation_uk": "час безперебійної роботи",
+    "example_en": "We guarantee 99.9% uptime.",
+    "example_uk": "Ми гарантуємо 99,9% часу безперебійної роботи.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 69,
+    "word": "downtime",
+    "translation_uk": "час простою",
+    "example_en": "The migration will cause no downtime.",
+    "example_uk": "Міграція не спричинить простою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 70,
+    "word": "outage",
+    "translation_uk": "збій, відключення",
+    "example_en": "There was a short outage last night.",
+    "example_uk": "Минулої ночі був короткий збій.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 71,
+    "word": "to migrate",
+    "translation_uk": "перенести, мігрувати",
+    "example_en": "We'll migrate your data over the weekend.",
+    "example_uk": "Ми перенесемо ваші дані на вихідних.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 72,
+    "word": "codebase",
+    "translation_uk": "кодова база",
+    "example_en": "The codebase is clean and well-tested.",
+    "example_uk": "Кодова база чиста й добре протестована.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 73,
+    "word": "code review",
+    "translation_uk": "код-рев'ю, перевірка коду",
+    "example_en": "Every pull request goes through code review.",
+    "example_uk": "Кожен пул-реквест проходить код-рев'ю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 74,
+    "word": "test coverage",
+    "translation_uk": "покриття тестами",
+    "example_en": "Test coverage is below 20%.",
+    "example_uk": "Покриття тестами нижче 20%.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 75,
+    "word": "automated tests",
+    "translation_uk": "автоматичні тести",
+    "example_en": "Automated tests run on every commit.",
+    "example_uk": "Автоматичні тести запускаються на кожен коміт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 76,
+    "word": "QA",
+    "translation_uk": "контроль якості, тестування",
+    "example_en": "Our QA engineer will check the build.",
+    "example_uk": "Наш QA-інженер перевірить збірку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 77,
+    "word": "edge case",
+    "translation_uk": "граничний випадок",
+    "example_en": "We didn't handle this edge case.",
+    "example_uk": "Ми не обробили цей граничний випадок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 78,
+    "word": "crash",
+    "translation_uk": "аварійне завершення, краш",
+    "example_en": "The app crashes on older Android phones.",
+    "example_uk": "Застосунок падає на старих Android-телефонах.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 79,
+    "word": "to reproduce",
+    "translation_uk": "відтворити",
+    "example_en": "We can't reproduce the bug on our side.",
+    "example_uk": "Ми не можемо відтворити помилку у себе.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 80,
+    "word": "feasible",
+    "translation_uk": "здійсненний, реальний",
+    "example_en": "Is this feasible within two weeks?",
+    "example_uk": "Чи реально це зробити за два тижні?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 81,
+    "word": "feasibility",
+    "translation_uk": "здійсненність",
+    "example_en": "We'll check the technical feasibility first.",
+    "example_uk": "Спершу ми перевіримо технічну здійсненність.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 82,
+    "word": "rough estimate",
+    "translation_uk": "приблизна оцінка",
+    "example_en": "Can you give me a rough estimate?",
+    "example_uk": "Чи можете дати приблизну оцінку?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 83,
+    "word": "ballpark figure",
+    "translation_uk": "приблизна сума",
+    "example_en": "Just give me a ballpark figure for now.",
+    "example_uk": "Поки що просто назвіть приблизну суму.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 84,
+    "word": "assumption",
+    "translation_uk": "припущення",
+    "example_en": "Our estimate is based on these assumptions.",
+    "example_uk": "Наша оцінка базується на цих припущеннях.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 85,
+    "word": "risk",
+    "translation_uk": "ризик",
+    "example_en": "The main risk is the third-party API.",
+    "example_uk": "Головний ризик — стороннє API.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 86,
+    "word": "to mitigate",
+    "translation_uk": "пом'якшити, зменшити",
+    "example_en": "How can we mitigate this risk?",
+    "example_uk": "Як ми можемо зменшити цей ризик?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 87,
+    "word": "dependency",
+    "translation_uk": "залежність",
+    "example_en": "This task has a dependency on the backend.",
+    "example_uk": "Ця задача залежить від бекенду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 88,
+    "word": "blocker",
+    "translation_uk": "блокер, перешкода",
+    "example_en": "Do you have any blockers?",
+    "example_uk": "У вас є якісь блокери?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 89,
+    "word": "to unblock",
+    "translation_uk": "розблокувати",
+    "example_en": "Your answer will unblock the team.",
+    "example_uk": "Ваша відповідь розблокує команду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 90,
+    "word": "delay",
+    "translation_uk": "затримка",
+    "example_en": "Sorry for the delay in my reply.",
+    "example_uk": "Вибачте за затримку з відповіддю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 91,
+    "word": "to postpone",
+    "translation_uk": "відкласти",
+    "example_en": "We have to postpone the release by a week.",
+    "example_uk": "Нам доведеться відкласти реліз на тиждень.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 92,
+    "word": "on track",
+    "translation_uk": "за планом",
+    "example_en": "The project is on track.",
+    "example_uk": "Проєкт іде за планом.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 93,
+    "word": "behind schedule",
+    "translation_uk": "із відставанням від графіка",
+    "example_en": "We're a few days behind schedule.",
+    "example_uk": "Ми відстаємо від графіка на кілька днів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 94,
+    "word": "ahead of schedule",
+    "translation_uk": "з випередженням графіка",
+    "example_en": "We finished ahead of schedule.",
+    "example_uk": "Ми закінчили з випередженням графіка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 95,
+    "word": "status update",
+    "translation_uk": "звіт про стан",
+    "example_en": "I'll send a weekly status update.",
+    "example_uk": "Я надсилатиму щотижневий звіт про стан справ.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 96,
+    "word": "progress",
+    "translation_uk": "прогрес",
+    "example_en": "We made good progress this week.",
+    "example_uk": "Цього тижня ми добре просунулися.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 97,
+    "word": "weekly sync",
+    "translation_uk": "щотижнева зустріч",
+    "example_en": "Let's discuss it at our weekly sync.",
+    "example_uk": "Давайте обговоримо це на щотижневій зустрічі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 98,
+    "word": "standup",
+    "translation_uk": "стендап, коротка щоденна зустріч",
+    "example_en": "We have a standup every morning at ten.",
+    "example_uk": "Щоранку о десятій у нас стендап.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 99,
+    "word": "retrospective",
+    "translation_uk": "ретроспектива",
+    "example_en": "In the retrospective, we discussed what went wrong.",
+    "example_uk": "На ретроспективі ми обговорили, що пішло не так.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 100,
+    "word": "demo",
+    "translation_uk": "демо, демонстрація",
+    "example_en": "We'll show a demo at the end of the sprint.",
+    "example_uk": "Ми покажемо демо наприкінці спринту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 101,
+    "word": "to walk through",
+    "translation_uk": "детально пройтися, показати",
+    "example_en": "Let me walk you through the design.",
+    "example_uk": "Дозвольте мені пройтися з вами по дизайну.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 102,
+    "word": "agenda",
+    "translation_uk": "порядок денний",
+    "example_en": "I'll share the agenda before the call.",
+    "example_uk": "Я надішлю порядок денний перед дзвінком.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 103,
+    "word": "action items",
+    "translation_uk": "завдання за підсумками",
+    "example_en": "Here are the action items from today's call.",
+    "example_uk": "Ось завдання за підсумками сьогоднішнього дзвінка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 104,
+    "word": "takeaway",
+    "translation_uk": "головний висновок",
+    "example_en": "The main takeaway is that we need more data.",
+    "example_uk": "Головний висновок — нам потрібно більше даних.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 105,
+    "word": "minutes",
+    "translation_uk": "протокол зустрічі",
+    "example_en": "Who will take the minutes?",
+    "example_uk": "Хто вестиме протокол зустрічі?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 106,
+    "word": "recap",
+    "translation_uk": "короткий підсумок",
+    "example_en": "Here is a quick recap of our call.",
+    "example_uk": "Ось короткий підсумок нашого дзвінка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 107,
+    "word": "to schedule",
+    "translation_uk": "запланувати, призначити",
+    "example_en": "Can we schedule a call for tomorrow?",
+    "example_uk": "Чи можемо ми призначити дзвінок на завтра?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 108,
+    "word": "to reschedule",
+    "translation_uk": "перенести (зустріч)",
+    "example_en": "Could we reschedule to Thursday?",
+    "example_uk": "Чи могли б ми перенести на четвер?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 109,
+    "word": "availability",
+    "translation_uk": "вільний час, доступність",
+    "example_en": "Please share your availability for next week.",
+    "example_uk": "Будь ласка, напишіть, коли ви вільні наступного тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 110,
+    "word": "time zone",
+    "translation_uk": "часовий пояс",
+    "example_en": "We're in different time zones, so let's meet at 4 pm CET.",
+    "example_uk": "Ми в різних часових поясах, тож зустріньмося о 16:00 за CET.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 111,
+    "word": "to confirm",
+    "translation_uk": "підтвердити",
+    "example_en": "Just to confirm, the call is at 3 pm?",
+    "example_uk": "Просто щоб підтвердити: дзвінок о 15:00?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 112,
+    "word": "to reach out",
+    "translation_uk": "звернутися, зв'язатися",
+    "example_en": "Feel free to reach out if you have questions.",
+    "example_uk": "Звертайтеся, якщо будуть питання.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 113,
+    "word": "to get back to",
+    "translation_uk": "повернутися з відповіддю",
+    "example_en": "I'll get back to you by the end of the day.",
+    "example_uk": "Я відповім вам до кінця дня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 114,
+    "word": "to touch base",
+    "translation_uk": "коротко зв'язатися",
+    "example_en": "Let's touch base next week.",
+    "example_uk": "Давайте коротко зв'яжемося наступного тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 115,
+    "word": "to loop in",
+    "translation_uk": "додати до обговорення",
+    "example_en": "I'll loop in our tech lead.",
+    "example_uk": "Я додам до обговорення нашого техліда.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 116,
+    "word": "to keep in the loop",
+    "translation_uk": "тримати в курсі",
+    "example_en": "Please keep me in the loop.",
+    "example_uk": "Будь ласка, тримайте мене в курсі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 117,
+    "word": "to circle back",
+    "translation_uk": "повернутися до питання",
+    "example_en": "Let's circle back to pricing later.",
+    "example_uk": "Повернімося до ціни пізніше.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 118,
+    "word": "heads-up",
+    "translation_uk": "попередження заздалегідь",
+    "example_en": "Just a heads-up: we'll be offline on Friday.",
+    "example_uk": "Просто попереджаю: у п'ятницю нас не буде на зв'язку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 119,
+    "word": "to attach",
+    "translation_uk": "додати вкладення",
+    "example_en": "I've attached the contract.",
+    "example_uk": "Я додав договір у вкладення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 120,
+    "word": "please find attached",
+    "translation_uk": "у вкладенні ви знайдете",
+    "example_en": "Please find attached our proposal.",
+    "example_uk": "У вкладенні — наша пропозиція.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 121,
+    "word": "as discussed",
+    "translation_uk": "як ми обговорювали",
+    "example_en": "As discussed, here is the updated quote.",
+    "example_uk": "Як ми обговорювали, ось оновлений кошторис.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 122,
+    "word": "looking forward to",
+    "translation_uk": "з нетерпінням чекаю",
+    "example_en": "Looking forward to working with you.",
+    "example_uk": "З нетерпінням чекаю на співпрацю з вами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 123,
+    "word": "to appreciate",
+    "translation_uk": "цінувати, бути вдячним",
+    "example_en": "I appreciate your patience.",
+    "example_uk": "Я ціную ваше терпіння.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 124,
+    "word": "let me know",
+    "translation_uk": "дайте знати",
+    "example_en": "Let me know if this works for you.",
+    "example_uk": "Дайте знати, чи вам це підходить.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 125,
+    "word": "does that work for you",
+    "translation_uk": "вам це підходить?",
+    "example_en": "We can start on Monday. Does that work for you?",
+    "example_uk": "Ми можемо почати в понеділок. Вам підходить?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 126,
+    "word": "to make sure",
+    "translation_uk": "переконатися",
+    "example_en": "I want to make sure we're on the same page.",
+    "example_uk": "Я хочу переконатися, що ми однаково це розуміємо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 127,
+    "word": "on the same page",
+    "translation_uk": "однаково розуміти ситуацію",
+    "example_en": "Let's make sure we're all on the same page.",
+    "example_uk": "Переконаймося, що ми всі розуміємо однаково.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 128,
+    "word": "to align",
+    "translation_uk": "узгодити",
+    "example_en": "Let's align on priorities first.",
+    "example_uk": "Давайте спершу узгодимо пріоритети.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 129,
+    "word": "alignment",
+    "translation_uk": "узгодженість",
+    "example_en": "We need alignment between design and dev.",
+    "example_uk": "Нам потрібна узгодженість між дизайном і розробкою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 130,
+    "word": "to sum up",
+    "translation_uk": "підсумувати",
+    "example_en": "To sum up, we need two more weeks.",
+    "example_uk": "Підсумовуючи, нам потрібно ще два тижні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 131,
+    "word": "to point out",
+    "translation_uk": "звернути увагу, вказати",
+    "example_en": "You pointed out a good problem.",
+    "example_uk": "Ви звернули увагу на важливу проблему.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 132,
+    "word": "to bring up",
+    "translation_uk": "підняти питання",
+    "example_en": "I'd like to bring up the budget.",
+    "example_uk": "Я хотів би підняти питання бюджету.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 133,
+    "word": "to figure out",
+    "translation_uk": "розібратися, з'ясувати",
+    "example_en": "We'll figure out the best solution.",
+    "example_uk": "Ми розберемося, яке рішення найкраще.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 134,
+    "word": "to come up with",
+    "translation_uk": "придумати",
+    "example_en": "We came up with a simpler approach.",
+    "example_uk": "Ми придумали простіший підхід.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 135,
+    "word": "to set up",
+    "translation_uk": "налаштувати",
+    "example_en": "We'll set up the servers this week.",
+    "example_uk": "Ми налаштуємо сервери цього тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 136,
+    "word": "to roll out",
+    "translation_uk": "поступово впроваджувати",
+    "example_en": "We'll roll out the feature to 10% of users.",
+    "example_uk": "Ми запустимо функцію для 10% користувачів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 137,
+    "word": "to roll back",
+    "translation_uk": "відкотити",
+    "example_en": "We had to roll back the last release.",
+    "example_uk": "Нам довелося відкотити останній реліз.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 138,
+    "word": "to work on",
+    "translation_uk": "працювати над",
+    "example_en": "We're working on the checkout now.",
+    "example_uk": "Зараз ми працюємо над оформленням замовлення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 139,
+    "word": "to take over",
+    "translation_uk": "перейняти",
+    "example_en": "We can take over the project from your previous agency.",
+    "example_uk": "Ми можемо перейняти проєкт від вашої попередньої агенції.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 140,
+    "word": "to hand over",
+    "translation_uk": "передати",
+    "example_en": "We'll hand over the code and documentation.",
+    "example_uk": "Ми передамо код і документацію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 141,
+    "word": "to wrap up",
+    "translation_uk": "завершити",
+    "example_en": "Let's wrap up the call.",
+    "example_uk": "Давайте завершувати дзвінок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 142,
+    "word": "to carry out",
+    "translation_uk": "виконати, провести",
+    "example_en": "We carried out a full security audit.",
+    "example_uk": "Ми провели повний аудит безпеки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 143,
+    "word": "to go through",
+    "translation_uk": "переглянути, пройти",
+    "example_en": "Let's go through the list together.",
+    "example_uk": "Давайте пройдемося по списку разом.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 144,
+    "word": "to look into",
+    "translation_uk": "розібратися, вивчити",
+    "example_en": "We'll look into this issue today.",
+    "example_uk": "Ми розберемося з цією проблемою сьогодні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 145,
+    "word": "to sort out",
+    "translation_uk": "владнати, розв'язати",
+    "example_en": "Don't worry, we'll sort it out.",
+    "example_uk": "Не хвилюйтеся, ми це владнаємо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 146,
+    "word": "to deal with",
+    "translation_uk": "мати справу з, впоратися",
+    "example_en": "We deal with this kind of problem often.",
+    "example_uk": "Ми часто маємо справу з такими проблемами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 147,
+    "word": "to run into",
+    "translation_uk": "зіткнутися з",
+    "example_en": "We ran into an issue with the API.",
+    "example_uk": "Ми зіткнулися з проблемою в API.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 148,
+    "word": "to come across",
+    "translation_uk": "натрапити",
+    "example_en": "We came across some old code.",
+    "example_uk": "Ми натрапили на старий код.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 149,
+    "word": "to catch up",
+    "translation_uk": "наздогнати, обмінятися новинами",
+    "example_en": "Let's catch up after the release.",
+    "example_uk": "Давайте поговоримо після релізу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 150,
+    "word": "to fall behind",
+    "translation_uk": "відстати",
+    "example_en": "We can't fall behind on this project.",
+    "example_uk": "Ми не можемо відстати на цьому проєкті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 151,
+    "word": "to keep up with",
+    "translation_uk": "встигати за",
+    "example_en": "It's hard to keep up with all the requests.",
+    "example_uk": "Важко встигати за всіма запитами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 152,
+    "word": "to put together",
+    "translation_uk": "зібрати, підготувати",
+    "example_en": "I'll put together a short proposal.",
+    "example_uk": "Я підготую коротку пропозицію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 153,
+    "word": "to break down",
+    "translation_uk": "розбити на частини",
+    "example_en": "Let's break the project down into phases.",
+    "example_uk": "Давайте розіб'ємо проєкт на етапи.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 154,
+    "word": "breakdown",
+    "translation_uk": "детальний розподіл",
+    "example_en": "Here's a cost breakdown by feature.",
+    "example_uk": "Ось розподіл вартості за функціями.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 155,
+    "word": "to back up",
+    "translation_uk": "підкріпити, зробити резервну копію",
+    "example_en": "Can you back up this claim with data?",
+    "example_uk": "Чи можете ви підкріпити це твердження даними?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 156,
+    "word": "backup",
+    "translation_uk": "резервна копія",
+    "example_en": "We make daily backups of the database.",
+    "example_uk": "Ми робимо щоденні резервні копії бази даних.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 157,
+    "word": "to figure in",
+    "translation_uk": "врахувати",
+    "example_en": "Did you figure in the testing time?",
+    "example_uk": "Ви врахували час на тестування?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 158,
+    "word": "to cut down on",
+    "translation_uk": "скоротити",
+    "example_en": "We need to cut down on meetings.",
+    "example_uk": "Нам треба скоротити кількість зустрічей.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 159,
+    "word": "to scale back",
+    "translation_uk": "зменшити масштаб",
+    "example_en": "We can scale back the scope to fit the budget.",
+    "example_uk": "Ми можемо зменшити обсяг, щоб вкластися в бюджет.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 160,
+    "word": "to speed up",
+    "translation_uk": "пришвидшити",
+    "example_en": "How can we speed up the release?",
+    "example_uk": "Як ми можемо пришвидшити реліз?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 161,
+    "word": "to slow down",
+    "translation_uk": "сповільнити",
+    "example_en": "Too many changes slow down the team.",
+    "example_uk": "Забагато змін сповільнюють команду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 162,
+    "word": "to point to",
+    "translation_uk": "вказувати на",
+    "example_en": "The logs point to a memory leak.",
+    "example_uk": "Логи вказують на витік пам'яті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 163,
+    "word": "to stick to",
+    "translation_uk": "дотримуватися",
+    "example_en": "Let's stick to the original plan.",
+    "example_uk": "Давайте дотримуватися початкового плану.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 164,
+    "word": "to move forward",
+    "translation_uk": "рухатися далі",
+    "example_en": "How would you like to move forward?",
+    "example_uk": "Як ви хочете рухатися далі?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 165,
+    "word": "next steps",
+    "translation_uk": "наступні кроки",
+    "example_en": "Let's agree on next steps.",
+    "example_uk": "Давайте домовимося про наступні кроки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 166,
+    "word": "to sign up for",
+    "translation_uk": "зареєструватися",
+    "example_en": "Users can sign up with Google.",
+    "example_uk": "Користувачі можуть зареєструватися через Google.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 167,
+    "word": "to log in",
+    "translation_uk": "увійти",
+    "example_en": "I can't log in to the admin panel.",
+    "example_uk": "Я не можу увійти в адмін-панель.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 168,
+    "word": "to opt out",
+    "translation_uk": "відмовитися",
+    "example_en": "Users can opt out of emails.",
+    "example_uk": "Користувачі можуть відмовитися від розсилки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 169,
+    "word": "to fill in",
+    "translation_uk": "заповнити",
+    "example_en": "Please fill in this short form.",
+    "example_uk": "Будь ласка, заповніть цю коротку форму.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 170,
+    "word": "to find out",
+    "translation_uk": "дізнатися",
+    "example_en": "I'll find out and let you know.",
+    "example_uk": "Я дізнаюся і повідомлю вам.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 171,
+    "word": "to turn down",
+    "translation_uk": "відхилити",
+    "example_en": "We had to turn down the project.",
+    "example_uk": "Нам довелося відмовитися від проєкту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 172,
+    "word": "to take on",
+    "translation_uk": "взяти на себе",
+    "example_en": "We can take on two new projects this month.",
+    "example_uk": "Цього місяця ми можемо взяти два нові проєкти.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 173,
+    "word": "to sign",
+    "translation_uk": "підписати",
+    "example_en": "Once you sign the contract, we can start.",
+    "example_uk": "Щойно ви підпишете договір, ми почнемо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 174,
+    "word": "NDA",
+    "translation_uk": "угода про нерозголошення",
+    "example_en": "We're happy to sign an NDA.",
+    "example_uk": "Ми охоче підпишемо угоду про нерозголошення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 175,
+    "word": "statement of work",
+    "translation_uk": "технічне завдання, опис робіт",
+    "example_en": "The statement of work lists all deliverables.",
+    "example_uk": "В описі робіт перелічено всі результати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 176,
+    "word": "terms",
+    "translation_uk": "умови",
+    "example_en": "Our payment terms are 50% upfront.",
+    "example_uk": "Наші умови оплати — 50% наперед.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 177,
+    "word": "upfront",
+    "translation_uk": "наперед",
+    "example_en": "We ask for a deposit upfront.",
+    "example_uk": "Ми просимо передоплату наперед.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 178,
+    "word": "deposit",
+    "translation_uk": "передоплата, завдаток",
+    "example_en": "The deposit is 30% of the total.",
+    "example_uk": "Передоплата — 30% від загальної суми.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 179,
+    "word": "payment terms",
+    "translation_uk": "умови оплати",
+    "example_en": "Our payment terms are net 14.",
+    "example_uk": "Наші умови оплати — 14 днів після рахунку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 180,
+    "word": "overdue",
+    "translation_uk": "прострочений",
+    "example_en": "This invoice is two weeks overdue.",
+    "example_uk": "Цей рахунок прострочено на два тижні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 181,
+    "word": "to charge",
+    "translation_uk": "брати плату, виставляти",
+    "example_en": "We charge per sprint.",
+    "example_uk": "Ми беремо оплату за спринт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 182,
+    "word": "rate card",
+    "translation_uk": "прайс зі ставками",
+    "example_en": "I've attached our rate card.",
+    "example_uk": "Я додав наш прайс зі ставками.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 183,
+    "word": "discount",
+    "translation_uk": "знижка",
+    "example_en": "We can offer a 10% discount for a longer contract.",
+    "example_uk": "Ми можемо запропонувати знижку 10% за довший контракт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 184,
+    "word": "pricing",
+    "translation_uk": "ціноутворення",
+    "example_en": "Our pricing is transparent.",
+    "example_uk": "Наше ціноутворення прозоре.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 185,
+    "word": "cost",
+    "translation_uk": "вартість",
+    "example_en": "The cost includes testing and support.",
+    "example_uk": "Вартість включає тестування та підтримку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 186,
+    "word": "expense",
+    "translation_uk": "витрата",
+    "example_en": "Travel expenses are not included.",
+    "example_uk": "Витрати на відрядження не включено.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 187,
+    "word": "to cover",
+    "translation_uk": "покривати",
+    "example_en": "Does the price cover maintenance?",
+    "example_uk": "Чи покриває ціна супровід?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 188,
+    "word": "value",
+    "translation_uk": "цінність",
+    "example_en": "We focus on business value, not just code.",
+    "example_uk": "Ми фокусуємося на цінності для бізнесу, а не лише на коді.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 189,
+    "word": "return on investment",
+    "translation_uk": "окупність інвестицій",
+    "example_en": "The client wants to see a clear return on investment.",
+    "example_uk": "Клієнт хоче бачити чітку окупність інвестицій.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 190,
+    "word": "negotiation",
+    "translation_uk": "переговори",
+    "example_en": "The negotiation took two weeks.",
+    "example_uk": "Переговори тривали два тижні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 191,
+    "word": "to negotiate",
+    "translation_uk": "домовлятися, вести переговори",
+    "example_en": "We're open to negotiate the terms.",
+    "example_uk": "Ми відкриті до обговорення умов.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 192,
+    "word": "counteroffer",
+    "translation_uk": "зустрічна пропозиція",
+    "example_en": "They sent us a counteroffer.",
+    "example_uk": "Вони надіслали нам зустрічну пропозицію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 193,
+    "word": "to compromise",
+    "translation_uk": "йти на компроміс",
+    "example_en": "We can compromise on the timeline.",
+    "example_uk": "Ми можемо піти на компроміс щодо термінів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 194,
+    "word": "trade-off",
+    "translation_uk": "компроміс, вибір між",
+    "example_en": "There's a trade-off between speed and quality.",
+    "example_uk": "Існує компроміс між швидкістю та якістю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 195,
+    "word": "deal",
+    "translation_uk": "угода",
+    "example_en": "We closed the deal yesterday.",
+    "example_uk": "Учора ми закрили угоду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 196,
+    "word": "to close a deal",
+    "translation_uk": "закрити угоду",
+    "example_en": "We want to close the deal this month.",
+    "example_uk": "Ми хочемо закрити угоду цього місяця.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 197,
+    "word": "lead",
+    "translation_uk": "потенційний клієнт, лід",
+    "example_en": "We got three new leads this week.",
+    "example_uk": "Цього тижня ми отримали трьох нових потенційних клієнтів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 198,
+    "word": "pipeline",
+    "translation_uk": "воронка продажів",
+    "example_en": "Our sales pipeline looks strong.",
+    "example_uk": "Наша воронка продажів виглядає добре.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 199,
+    "word": "prospect",
+    "translation_uk": "потенційний клієнт",
+    "example_en": "The prospect asked for case studies.",
+    "example_uk": "Потенційний клієнт попросив кейси.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 200,
+    "word": "case study",
+    "translation_uk": "кейс",
+    "example_en": "Here's a case study of a similar project.",
+    "example_uk": "Ось кейс схожого проєкту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 201,
+    "word": "portfolio",
+    "translation_uk": "портфоліо",
+    "example_en": "You can see our work in the portfolio.",
+    "example_uk": "Нашу роботу можна побачити в портфоліо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 202,
+    "word": "referral",
+    "translation_uk": "рекомендація",
+    "example_en": "Most of our clients come by referral.",
+    "example_uk": "Більшість наших клієнтів приходить за рекомендацією.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 203,
+    "word": "partner",
+    "translation_uk": "партнер",
+    "example_en": "We work with agency partners in the UK.",
+    "example_uk": "Ми працюємо з партнерськими агенціями у Великій Британії.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 204,
+    "word": "partnership",
+    "translation_uk": "партнерство",
+    "example_en": "We're looking for a long-term partnership.",
+    "example_uk": "Ми шукаємо довгострокове партнерство.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 205,
+    "word": "white-label",
+    "translation_uk": "під чужим брендом",
+    "example_en": "We do white-label development for agencies.",
+    "example_uk": "Ми робимо розробку під брендом агенцій.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 206,
+    "word": "subcontractor",
+    "translation_uk": "субпідрядник",
+    "example_en": "We often work as a subcontractor.",
+    "example_uk": "Ми часто працюємо як субпідрядник.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 207,
+    "word": "to outsource",
+    "translation_uk": "передати на аутсорс",
+    "example_en": "They want to outsource the mobile app.",
+    "example_uk": "Вони хочуть передати мобільний застосунок на аутсорс.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 208,
+    "word": "in-house",
+    "translation_uk": "власними силами, внутрішній",
+    "example_en": "Their in-house team handles the backend.",
+    "example_uk": "Їхня внутрішня команда займається бекендом.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 209,
+    "word": "vendor",
+    "translation_uk": "постачальник, підрядник",
+    "example_en": "We're on their list of approved vendors.",
+    "example_uk": "Ми в їхньому списку затверджених підрядників.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 210,
+    "word": "client",
+    "translation_uk": "клієнт",
+    "example_en": "The client is happy with the result.",
+    "example_uk": "Клієнт задоволений результатом.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 211,
+    "word": "account manager",
+    "translation_uk": "менеджер клієнта",
+    "example_en": "I'll be your account manager.",
+    "example_uk": "Я буду вашим менеджером.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 212,
+    "word": "point of contact",
+    "translation_uk": "контактна особа",
+    "example_en": "Who is our main point of contact?",
+    "example_uk": "Хто наша основна контактна особа?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 213,
+    "word": "decision-maker",
+    "translation_uk": "особа, що ухвалює рішення",
+    "example_en": "We need to talk to the decision-maker.",
+    "example_uk": "Нам треба поговорити з тим, хто ухвалює рішення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 214,
+    "word": "expectations",
+    "translation_uk": "очікування",
+    "example_en": "Let's discuss your expectations.",
+    "example_uk": "Давайте обговоримо ваші очікування.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 215,
+    "word": "to meet expectations",
+    "translation_uk": "виправдати очікування",
+    "example_en": "We want to meet your expectations.",
+    "example_uk": "Ми хочемо виправдати ваші очікування.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 216,
+    "word": "to exceed",
+    "translation_uk": "перевищити",
+    "example_en": "The results exceeded our expectations.",
+    "example_uk": "Результати перевершили наші очікування.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 217,
+    "word": "to manage expectations",
+    "translation_uk": "керувати очікуваннями",
+    "example_en": "It's important to manage client expectations.",
+    "example_uk": "Важливо керувати очікуваннями клієнта.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 218,
+    "word": "goal",
+    "translation_uk": "ціль",
+    "example_en": "What is the main goal of this project?",
+    "example_uk": "Яка головна мета цього проєкту?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 219,
+    "word": "objective",
+    "translation_uk": "завдання, ціль",
+    "example_en": "Our objective is to cut load time in half.",
+    "example_uk": "Наша мета — вдвічі скоротити час завантаження.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 220,
+    "word": "outcome",
+    "translation_uk": "результат",
+    "example_en": "We focus on outcomes, not hours.",
+    "example_uk": "Ми фокусуємося на результатах, а не на годинах.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 221,
+    "word": "success criteria",
+    "translation_uk": "критерії успіху",
+    "example_en": "Let's define the success criteria.",
+    "example_uk": "Давайте визначимо критерії успіху.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 222,
+    "word": "acceptance criteria",
+    "translation_uk": "критерії приймання",
+    "example_en": "Each task has acceptance criteria.",
+    "example_uk": "Кожна задача має критерії приймання.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 223,
+    "word": "definition of done",
+    "translation_uk": "критерії готовності",
+    "example_en": "What's our definition of done?",
+    "example_uk": "Що ми вважаємо критерієм готовності?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 224,
+    "word": "use case",
+    "translation_uk": "сценарій використання",
+    "example_en": "What's the main use case?",
+    "example_uk": "Який основний сценарій використання?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 225,
+    "word": "pain point",
+    "translation_uk": "болюча точка, проблема",
+    "example_en": "What are your users' main pain points?",
+    "example_uk": "Які головні проблеми ваших користувачів?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 226,
+    "word": "target audience",
+    "translation_uk": "цільова аудиторія",
+    "example_en": "Who is your target audience?",
+    "example_uk": "Хто ваша цільова аудиторія?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 227,
+    "word": "user research",
+    "translation_uk": "дослідження користувачів",
+    "example_en": "User research showed a different problem.",
+    "example_uk": "Дослідження користувачів показало іншу проблему.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 228,
+    "word": "user experience",
+    "translation_uk": "користувацький досвід",
+    "example_en": "We want to improve the user experience.",
+    "example_uk": "Ми хочемо покращити користувацький досвід.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 229,
+    "word": "usability",
+    "translation_uk": "зручність використання",
+    "example_en": "We ran a usability test with five users.",
+    "example_uk": "Ми провели тест зручності з п'ятьма користувачами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 230,
+    "word": "accessibility",
+    "translation_uk": "доступність",
+    "example_en": "Accessibility is important for this client.",
+    "example_uk": "Для цього клієнта важлива доступність.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 231,
+    "word": "responsive",
+    "translation_uk": "адаптивний",
+    "example_en": "The website is fully responsive.",
+    "example_uk": "Сайт повністю адаптивний.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 232,
+    "word": "cross-platform",
+    "translation_uk": "кросплатформний",
+    "example_en": "We build cross-platform apps with Flutter.",
+    "example_uk": "Ми робимо кросплатформні застосунки на Flutter.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 233,
+    "word": "native app",
+    "translation_uk": "нативний застосунок",
+    "example_en": "Do you need a native app?",
+    "example_uk": "Вам потрібен нативний застосунок?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 234,
+    "word": "app store",
+    "translation_uk": "магазин застосунків",
+    "example_en": "The app is now live in the App Store.",
+    "example_uk": "Застосунок уже доступний в App Store.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 235,
+    "word": "to submit",
+    "translation_uk": "подати, надіслати",
+    "example_en": "We submitted the app for review.",
+    "example_uk": "Ми подали застосунок на перевірку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 236,
+    "word": "push notification",
+    "translation_uk": "пуш-сповіщення",
+    "example_en": "Push notifications increased retention.",
+    "example_uk": "Пуш-сповіщення підвищили утримання користувачів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 237,
+    "word": "retention",
+    "translation_uk": "утримання користувачів",
+    "example_en": "Retention after 30 days is low.",
+    "example_uk": "Утримання через 30 днів низьке.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 238,
+    "word": "churn",
+    "translation_uk": "відтік клієнтів",
+    "example_en": "We need to reduce churn.",
+    "example_uk": "Нам потрібно зменшити відтік.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 239,
+    "word": "conversion rate",
+    "translation_uk": "коефіцієнт конверсії",
+    "example_en": "The new design improved the conversion rate.",
+    "example_uk": "Новий дизайн підвищив конверсію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 240,
+    "word": "engagement",
+    "translation_uk": "залученість",
+    "example_en": "User engagement doubled.",
+    "example_uk": "Залученість користувачів зросла вдвічі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 241,
+    "word": "metrics",
+    "translation_uk": "метрики, показники",
+    "example_en": "Which metrics do you track?",
+    "example_uk": "Які метрики ви відстежуєте?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 242,
+    "word": "analytics",
+    "translation_uk": "аналітика",
+    "example_en": "We'll set up analytics before the launch.",
+    "example_uk": "Ми налаштуємо аналітику до запуску.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 243,
+    "word": "dashboard",
+    "translation_uk": "дашборд, панель",
+    "example_en": "The dashboard shows all key metrics.",
+    "example_uk": "Дашборд показує всі ключові метрики.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 244,
+    "word": "admin panel",
+    "translation_uk": "адмін-панель",
+    "example_en": "Content is managed in the admin panel.",
+    "example_uk": "Контентом керують в адмін-панелі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 245,
+    "word": "subscription",
+    "translation_uk": "підписка",
+    "example_en": "The app uses a monthly subscription.",
+    "example_uk": "Застосунок працює за місячною підпискою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 246,
+    "word": "in-app purchase",
+    "translation_uk": "покупка в застосунку",
+    "example_en": "We added in-app purchases.",
+    "example_uk": "Ми додали покупки в застосунку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 247,
+    "word": "payment gateway",
+    "translation_uk": "платіжний шлюз",
+    "example_en": "Which payment gateway do you prefer?",
+    "example_uk": "Якому платіжному шлюзу ви надаєте перевагу?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 248,
+    "word": "authentication",
+    "translation_uk": "автентифікація",
+    "example_en": "We use two-factor authentication.",
+    "example_uk": "Ми використовуємо двофакторну автентифікацію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 249,
+    "word": "permissions",
+    "translation_uk": "права доступу",
+    "example_en": "Admins have more permissions.",
+    "example_uk": "Адміністратори мають більше прав доступу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 250,
+    "word": "data privacy",
+    "translation_uk": "конфіденційність даних",
+    "example_en": "Data privacy is a big concern for them.",
+    "example_uk": "Конфіденційність даних для них дуже важлива.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 251,
+    "word": "compliance",
+    "translation_uk": "відповідність вимогам",
+    "example_en": "The app must be GDPR compliant.",
+    "example_uk": "Застосунок має відповідати GDPR.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 252,
+    "word": "cloud",
+    "translation_uk": "хмара",
+    "example_en": "Everything runs in the cloud.",
+    "example_uk": "Усе працює в хмарі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 253,
+    "word": "server",
+    "translation_uk": "сервер",
+    "example_en": "The server is in Frankfurt.",
+    "example_uk": "Сервер знаходиться у Франкфурті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 254,
+    "word": "hosting",
+    "translation_uk": "хостинг",
+    "example_en": "Hosting costs are about $200 a month.",
+    "example_uk": "Хостинг коштує близько $200 на місяць.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 255,
+    "word": "load",
+    "translation_uk": "навантаження",
+    "example_en": "The system handles high load well.",
+    "example_uk": "Система добре витримує високе навантаження.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 256,
+    "word": "latency",
+    "translation_uk": "затримка, час відгуку",
+    "example_en": "We reduced latency to 100 ms.",
+    "example_uk": "Ми зменшили затримку до 100 мс.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 257,
+    "word": "caching",
+    "translation_uk": "кешування",
+    "example_en": "Caching made the API much faster.",
+    "example_uk": "Кешування значно пришвидшило API.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 258,
+    "word": "monitoring",
+    "translation_uk": "моніторинг",
+    "example_en": "We set up monitoring and alerts.",
+    "example_uk": "Ми налаштували моніторинг і сповіщення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 259,
+    "word": "alert",
+    "translation_uk": "сповіщення, тривога",
+    "example_en": "We got an alert at 3 am.",
+    "example_uk": "Ми отримали сповіщення о третій ночі.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 260,
+    "word": "logs",
+    "translation_uk": "логи, журнали",
+    "example_en": "Can you send us the logs?",
+    "example_uk": "Чи можете надіслати нам логи?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 261,
+    "word": "CI/CD",
+    "translation_uk": "безперервна інтеграція та доставка",
+    "example_en": "We set up a CI/CD pipeline.",
+    "example_uk": "Ми налаштували CI/CD-конвеєр.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 262,
+    "word": "version control",
+    "translation_uk": "система контролю версій",
+    "example_en": "All code is in version control.",
+    "example_uk": "Увесь код зберігається в системі контролю версій.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 263,
+    "word": "repository",
+    "translation_uk": "репозиторій",
+    "example_en": "Please give us access to the repository.",
+    "example_uk": "Будь ласка, надайте нам доступ до репозиторію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 264,
+    "word": "access",
+    "translation_uk": "доступ",
+    "example_en": "We need admin access to the server.",
+    "example_uk": "Нам потрібен адмін-доступ до сервера.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 265,
+    "word": "credentials",
+    "translation_uk": "облікові дані",
+    "example_en": "Please don't send credentials by email.",
+    "example_uk": "Будь ласка, не надсилайте облікові дані поштою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 266,
+    "word": "documentation",
+    "translation_uk": "документація",
+    "example_en": "We provide full documentation.",
+    "example_uk": "Ми надаємо повну документацію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 267,
+    "word": "open source",
+    "translation_uk": "відкритий код",
+    "example_en": "We use open source libraries.",
+    "example_uk": "Ми використовуємо бібліотеки з відкритим кодом.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 268,
+    "word": "framework",
+    "translation_uk": "фреймворк",
+    "example_en": "Which framework do you use?",
+    "example_uk": "Який фреймворк ви використовуєте?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 269,
+    "word": "stack",
+    "translation_uk": "технологічний стек",
+    "example_en": "What's your tech stack?",
+    "example_uk": "Який у вас технологічний стек?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 270,
+    "word": "to maintain",
+    "translation_uk": "підтримувати, супроводжувати",
+    "example_en": "Who will maintain the app after launch?",
+    "example_uk": "Хто супроводжуватиме застосунок після запуску?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 271,
+    "word": "maintenance",
+    "translation_uk": "технічна підтримка, супровід",
+    "example_en": "Maintenance is billed monthly.",
+    "example_uk": "Супровід оплачується щомісяця.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 272,
+    "word": "support",
+    "translation_uk": "підтримка",
+    "example_en": "We offer 30 days of free support.",
+    "example_uk": "Ми пропонуємо 30 днів безкоштовної підтримки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 273,
+    "word": "SLA",
+    "translation_uk": "угода про рівень сервісу",
+    "example_en": "Our SLA includes a 4-hour response time.",
+    "example_uk": "Наша SLA передбачає відповідь протягом 4 годин.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 274,
+    "word": "response time",
+    "translation_uk": "час відповіді",
+    "example_en": "Our response time is under one hour.",
+    "example_uk": "Наш час відповіді — менше години.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 275,
+    "word": "warranty period",
+    "translation_uk": "гарантійний період",
+    "example_en": "There's a three-month warranty period.",
+    "example_uk": "Є тримісячний гарантійний період.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 276,
+    "word": "AI feature",
+    "translation_uk": "функція на основі ШІ",
+    "example_en": "The client wants to add an AI feature.",
+    "example_uk": "Клієнт хоче додати функцію на основі ШІ.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 277,
+    "word": "machine learning",
+    "translation_uk": "машинне навчання",
+    "example_en": "We use machine learning for recommendations.",
+    "example_uk": "Ми використовуємо машинне навчання для рекомендацій.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 278,
+    "word": "model",
+    "translation_uk": "модель",
+    "example_en": "Which model should we use?",
+    "example_uk": "Яку модель нам варто використати?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 279,
+    "word": "prompt",
+    "translation_uk": "промпт, запит",
+    "example_en": "We tested different prompts.",
+    "example_uk": "Ми протестували різні промпти.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 280,
+    "word": "chatbot",
+    "translation_uk": "чат-бот",
+    "example_en": "We built a support chatbot.",
+    "example_uk": "Ми зробили чат-бот підтримки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 281,
+    "word": "to automate",
+    "translation_uk": "автоматизувати",
+    "example_en": "We can automate this process.",
+    "example_uk": "Ми можемо автоматизувати цей процес.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 282,
+    "word": "automation",
+    "translation_uk": "автоматизація",
+    "example_en": "Automation saved them 20 hours a week.",
+    "example_uk": "Автоматизація заощадила їм 20 годин на тиждень.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 283,
+    "word": "accuracy",
+    "translation_uk": "точність",
+    "example_en": "The accuracy is about 95%.",
+    "example_uk": "Точність — близько 95%.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 284,
+    "word": "dataset",
+    "translation_uk": "набір даних",
+    "example_en": "We need a bigger dataset.",
+    "example_uk": "Нам потрібен більший набір даних.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 285,
+    "word": "to train",
+    "translation_uk": "навчати",
+    "example_en": "We trained the model on their data.",
+    "example_uk": "Ми навчили модель на їхніх даних.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 286,
+    "word": "proof of concept",
+    "translation_uk": "доказ концепції, PoC",
+    "example_en": "Let's start with a proof of concept.",
+    "example_uk": "Почнімо з доказу концепції.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 287,
+    "word": "MVP",
+    "translation_uk": "мінімально життєздатний продукт",
+    "example_en": "We can build the MVP in six weeks.",
+    "example_uk": "Ми можемо зробити MVP за шість тижнів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 288,
+    "word": "iteration",
+    "translation_uk": "ітерація",
+    "example_en": "We improve the product in short iterations.",
+    "example_uk": "Ми покращуємо продукт короткими ітераціями.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 289,
+    "word": "to iterate",
+    "translation_uk": "ітерувати, поступово покращувати",
+    "example_en": "We'll iterate based on user feedback.",
+    "example_uk": "Ми поступово покращуватимемо на основі відгуків.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 290,
+    "word": "scope creep",
+    "translation_uk": "розростання обсягу робіт",
+    "example_en": "We need to avoid scope creep.",
+    "example_uk": "Нам треба уникати розростання обсягу робіт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 291,
+    "word": "change request",
+    "translation_uk": "запит на зміну",
+    "example_en": "Any new feature is a change request.",
+    "example_uk": "Будь-яка нова функція — це запит на зміну.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 292,
+    "word": "out of scope",
+    "translation_uk": "поза обсягом робіт",
+    "example_en": "That's out of scope for this phase.",
+    "example_uk": "Це поза обсягом робіт цієї фази.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 293,
+    "word": "phase",
+    "translation_uk": "фаза, етап",
+    "example_en": "The second phase starts in March.",
+    "example_uk": "Друга фаза починається в березні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 294,
+    "word": "fixed sprint",
+    "translation_uk": "фіксований спринт",
+    "example_en": "We sell work in fixed sprints.",
+    "example_uk": "Ми продаємо роботу фіксованими спринтами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 295,
+    "word": "capacity",
+    "translation_uk": "ресурс, потужність команди",
+    "example_en": "We have the capacity to start next week.",
+    "example_uk": "У нас є ресурс почати наступного тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 296,
+    "word": "workload",
+    "translation_uk": "навантаження",
+    "example_en": "Our workload is high this month.",
+    "example_uk": "Цього місяця в нас велике навантаження.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 297,
+    "word": "bandwidth",
+    "translation_uk": "вільний ресурс",
+    "example_en": "I don't have the bandwidth for this right now.",
+    "example_uk": "Зараз у мене немає на це ресурсу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 298,
+    "word": "resources",
+    "translation_uk": "ресурси, люди",
+    "example_en": "We'll allocate more resources to this project.",
+    "example_uk": "Ми виділимо більше ресурсів на цей проєкт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 299,
+    "word": "to allocate",
+    "translation_uk": "виділити, розподілити",
+    "example_en": "We allocated two developers to the project.",
+    "example_uk": "Ми виділили на проєкт двох розробників.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 300,
+    "word": "team lead",
+    "translation_uk": "керівник команди",
+    "example_en": "Our team lead will join the call.",
+    "example_uk": "Наш керівник команди приєднається до дзвінка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 301,
+    "word": "tech lead",
+    "translation_uk": "технічний лідер",
+    "example_en": "The tech lead reviews all architecture decisions.",
+    "example_uk": "Техлід переглядає всі архітектурні рішення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 302,
+    "word": "project manager",
+    "translation_uk": "менеджер проєкту",
+    "example_en": "Your project manager will send daily updates.",
+    "example_uk": "Ваш менеджер проєкту надсилатиме щоденні оновлення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 303,
+    "word": "senior",
+    "translation_uk": "досвідчений, старший",
+    "example_en": "We only work with senior engineers.",
+    "example_uk": "Ми працюємо лише з досвідченими інженерами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 304,
+    "word": "expertise",
+    "translation_uk": "експертиза",
+    "example_en": "We have deep expertise in fintech.",
+    "example_uk": "У нас глибока експертиза у фінтеху.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 305,
+    "word": "experienced",
+    "translation_uk": "досвідчений",
+    "example_en": "Our team is experienced in healthcare apps.",
+    "example_uk": "Наша команда має досвід у медичних застосунках.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 306,
+    "word": "skill set",
+    "translation_uk": "набір навичок",
+    "example_en": "This task needs a specific skill set.",
+    "example_uk": "Ця задача потребує певного набору навичок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 307,
+    "word": "to hire",
+    "translation_uk": "найняти",
+    "example_en": "We're hiring a new designer.",
+    "example_uk": "Ми наймаємо нового дизайнера.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 308,
+    "word": "to onboard",
+    "translation_uk": "ввести в курс справи",
+    "example_en": "We'll onboard the new developer next week.",
+    "example_uk": "Наступного тижня ми введемо нового розробника в курс справи.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 309,
+    "word": "responsibility",
+    "translation_uk": "відповідальність",
+    "example_en": "Testing is our responsibility.",
+    "example_uk": "Тестування — наша відповідальність.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 310,
+    "word": "to be responsible for",
+    "translation_uk": "відповідати за",
+    "example_en": "Who is responsible for the content?",
+    "example_uk": "Хто відповідає за контент?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 311,
+    "word": "accountable",
+    "translation_uk": "відповідальний (за результат)",
+    "example_en": "The project manager is accountable for the deadline.",
+    "example_uk": "Менеджер проєкту відповідає за дедлайн.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 312,
+    "word": "ownership",
+    "translation_uk": "відповідальність, володіння",
+    "example_en": "We take full ownership of the delivery.",
+    "example_uk": "Ми беремо повну відповідальність за результат.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 313,
+    "word": "to delegate",
+    "translation_uk": "делегувати",
+    "example_en": "I need to delegate more tasks.",
+    "example_uk": "Мені потрібно делегувати більше задач.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 314,
+    "word": "to assign",
+    "translation_uk": "призначити",
+    "example_en": "I assigned this ticket to Oleh.",
+    "example_uk": "Я призначив цей тікет Олегу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 315,
+    "word": "ticket",
+    "translation_uk": "тікет, задача",
+    "example_en": "Please create a ticket for this bug.",
+    "example_uk": "Будь ласка, створіть тікет для цієї помилки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 316,
+    "word": "task",
+    "translation_uk": "задача",
+    "example_en": "This task will take about two days.",
+    "example_uk": "Ця задача займе близько двох днів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 317,
+    "word": "workflow",
+    "translation_uk": "робочий процес",
+    "example_en": "Our workflow is simple and transparent.",
+    "example_uk": "Наш робочий процес простий і прозорий.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 318,
+    "word": "process",
+    "translation_uk": "процес",
+    "example_en": "Can you explain your process?",
+    "example_uk": "Чи можете пояснити ваш процес?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 319,
+    "word": "transparent",
+    "translation_uk": "прозорий",
+    "example_en": "We keep communication transparent.",
+    "example_uk": "Ми підтримуємо прозору комунікацію.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 320,
+    "word": "efficient",
+    "translation_uk": "ефективний",
+    "example_en": "This approach is more efficient.",
+    "example_uk": "Цей підхід ефективніший.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 321,
+    "word": "productive",
+    "translation_uk": "продуктивний",
+    "example_en": "It was a productive meeting.",
+    "example_uk": "Це була продуктивна зустріч.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 322,
+    "word": "to streamline",
+    "translation_uk": "оптимізувати, спростити",
+    "example_en": "We want to streamline the approval process.",
+    "example_uk": "Ми хочемо спростити процес погодження.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 323,
+    "word": "bottom line",
+    "translation_uk": "суть, підсумок",
+    "example_en": "The bottom line is that we need more time.",
+    "example_uk": "Суть у тому, що нам потрібно більше часу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 324,
+    "word": "straightforward",
+    "translation_uk": "простий, зрозумілий",
+    "example_en": "The fix is straightforward.",
+    "example_uk": "Виправлення просте.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 325,
+    "word": "complex",
+    "translation_uk": "складний",
+    "example_en": "The integration is more complex than expected.",
+    "example_uk": "Інтеграція складніша, ніж очікувалося.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 326,
+    "word": "challenging",
+    "translation_uk": "складний, непростий",
+    "example_en": "It's a challenging project.",
+    "example_uk": "Це непростий проєкт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 327,
+    "word": "challenge",
+    "translation_uk": "виклик, складність",
+    "example_en": "The biggest challenge is the deadline.",
+    "example_uk": "Найбільша складність — дедлайн.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 328,
+    "word": "solution",
+    "translation_uk": "рішення",
+    "example_en": "We found a cheaper solution.",
+    "example_uk": "Ми знайшли дешевше рішення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 329,
+    "word": "approach",
+    "translation_uk": "підхід",
+    "example_en": "What approach do you suggest?",
+    "example_uk": "Який підхід ви пропонуєте?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 330,
+    "word": "option",
+    "translation_uk": "варіант",
+    "example_en": "We see two options here.",
+    "example_uk": "Тут ми бачимо два варіанти.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 331,
+    "word": "alternative",
+    "translation_uk": "альтернатива",
+    "example_en": "Is there a cheaper alternative?",
+    "example_uk": "Чи є дешевша альтернатива?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 332,
+    "word": "recommendation",
+    "translation_uk": "рекомендація",
+    "example_en": "Our recommendation is to rebuild the backend.",
+    "example_uk": "Наша рекомендація — переписати бекенд.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 333,
+    "word": "to recommend",
+    "translation_uk": "рекомендувати",
+    "example_en": "I'd recommend starting with an audit.",
+    "example_uk": "Я б порадив почати з аудиту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 334,
+    "word": "to suggest",
+    "translation_uk": "запропонувати",
+    "example_en": "May I suggest a different approach?",
+    "example_uk": "Можна я запропоную інший підхід?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 335,
+    "word": "to propose",
+    "translation_uk": "запропонувати (офіційно)",
+    "example_en": "We propose a three-phase plan.",
+    "example_uk": "Ми пропонуємо план із трьох етапів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 336,
+    "word": "concern",
+    "translation_uk": "занепокоєння",
+    "example_en": "I understand your concern.",
+    "example_uk": "Я розумію ваше занепокоєння.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 337,
+    "word": "to address",
+    "translation_uk": "розв'язати, взятися за",
+    "example_en": "We'll address these issues in the next sprint.",
+    "example_uk": "Ми розв'яжемо ці проблеми в наступному спринті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 338,
+    "word": "to raise a concern",
+    "translation_uk": "висловити занепокоєння",
+    "example_en": "The client raised a concern about security.",
+    "example_uk": "Клієнт висловив занепокоєння щодо безпеки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 339,
+    "word": "complaint",
+    "translation_uk": "скарга",
+    "example_en": "We received a complaint from a user.",
+    "example_uk": "Ми отримали скаргу від користувача.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 340,
+    "word": "to apologize",
+    "translation_uk": "вибачитися",
+    "example_en": "We apologize for the inconvenience.",
+    "example_uk": "Перепрошуємо за незручності.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 341,
+    "word": "inconvenience",
+    "translation_uk": "незручність",
+    "example_en": "Sorry for any inconvenience.",
+    "example_uk": "Вибачте за можливі незручності.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 342,
+    "word": "misunderstanding",
+    "translation_uk": "непорозуміння",
+    "example_en": "I think there was a misunderstanding.",
+    "example_uk": "Думаю, сталося непорозуміння.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 343,
+    "word": "to resolve",
+    "translation_uk": "вирішити, усунути",
+    "example_en": "The issue has been resolved.",
+    "example_uk": "Проблему усунено.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 344,
+    "word": "root cause",
+    "translation_uk": "першопричина",
+    "example_en": "We found the root cause of the crash.",
+    "example_uk": "Ми знайшли першопричину падіння.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 345,
+    "word": "fix",
+    "translation_uk": "виправлення",
+    "example_en": "The fix is already in production.",
+    "example_uk": "Виправлення вже в продакшні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 346,
+    "word": "hotfix",
+    "translation_uk": "термінове виправлення",
+    "example_en": "We'll release a hotfix today.",
+    "example_uk": "Ми випустимо термінове виправлення сьогодні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 347,
+    "word": "urgent",
+    "translation_uk": "терміновий",
+    "example_en": "Is this urgent?",
+    "example_uk": "Це терміново?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 348,
+    "word": "ASAP",
+    "translation_uk": "якнайшвидше",
+    "example_en": "Please send it ASAP.",
+    "example_uk": "Будь ласка, надішліть якнайшвидше.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 349,
+    "word": "critical",
+    "translation_uk": "критичний",
+    "example_en": "This is a critical bug.",
+    "example_uk": "Це критична помилка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 350,
+    "word": "minor",
+    "translation_uk": "незначний",
+    "example_en": "There are a few minor issues.",
+    "example_uk": "Є кілька незначних проблем.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 351,
+    "word": "major",
+    "translation_uk": "значний, серйозний",
+    "example_en": "We need major changes in the design.",
+    "example_uk": "Нам потрібні серйозні зміни в дизайні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 352,
+    "word": "impact",
+    "translation_uk": "вплив",
+    "example_en": "What's the impact on users?",
+    "example_uk": "Який вплив на користувачів?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 353,
+    "word": "to affect",
+    "translation_uk": "впливати",
+    "example_en": "The bug affects only iOS users.",
+    "example_uk": "Помилка стосується лише користувачів iOS.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 354,
+    "word": "severity",
+    "translation_uk": "серйозність",
+    "example_en": "We rank bugs by severity.",
+    "example_uk": "Ми ранжуємо помилки за серйозністю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 355,
+    "word": "quality",
+    "translation_uk": "якість",
+    "example_en": "We never compromise on quality.",
+    "example_uk": "Ми ніколи не жертвуємо якістю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 356,
+    "word": "standard",
+    "translation_uk": "стандарт",
+    "example_en": "Our code meets industry standards.",
+    "example_uk": "Наш код відповідає галузевим стандартам.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 357,
+    "word": "best practices",
+    "translation_uk": "найкращі практики",
+    "example_en": "We follow best practices for security.",
+    "example_uk": "Ми дотримуємося найкращих практик безпеки.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 358,
+    "word": "guidelines",
+    "translation_uk": "рекомендації, правила",
+    "example_en": "Please follow the brand guidelines.",
+    "example_uk": "Будь ласка, дотримуйтеся брендбуку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 359,
+    "word": "design system",
+    "translation_uk": "дизайн-система",
+    "example_en": "We built a design system for their products.",
+    "example_uk": "Ми створили дизайн-систему для їхніх продуктів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 360,
+    "word": "consistent",
+    "translation_uk": "послідовний, однаковий",
+    "example_en": "The UI should be consistent across platforms.",
+    "example_uk": "Інтерфейс має бути однаковим на всіх платформах.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 361,
+    "word": "intuitive",
+    "translation_uk": "інтуїтивний",
+    "example_en": "The interface is simple and intuitive.",
+    "example_uk": "Інтерфейс простий та інтуїтивний.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 362,
+    "word": "polished",
+    "translation_uk": "відшліфований",
+    "example_en": "The final version looks polished.",
+    "example_uk": "Фінальна версія виглядає відшліфованою.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 363,
+    "word": "brief",
+    "translation_uk": "бриф, коротке завдання",
+    "example_en": "Can you send us a short brief?",
+    "example_uk": "Чи можете надіслати нам короткий бриф?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 364,
+    "word": "to outline",
+    "translation_uk": "окреслити",
+    "example_en": "Let me outline our approach.",
+    "example_uk": "Дозвольте окреслити наш підхід.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 365,
+    "word": "overview",
+    "translation_uk": "огляд",
+    "example_en": "Here's a quick overview of the project.",
+    "example_uk": "Ось короткий огляд проєкту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 366,
+    "word": "in detail",
+    "translation_uk": "детально",
+    "example_en": "We'll discuss it in detail on the call.",
+    "example_uk": "Ми детально обговоримо це на дзвінку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 367,
+    "word": "high-level",
+    "translation_uk": "загальний, верхньорівневий",
+    "example_en": "This is a high-level plan.",
+    "example_uk": "Це загальний план.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 368,
+    "word": "to specify",
+    "translation_uk": "уточнити, вказати",
+    "example_en": "Please specify the devices you support.",
+    "example_uk": "Будь ласка, вкажіть, які пристрої ви підтримуєте.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 369,
+    "word": "specification",
+    "translation_uk": "специфікація",
+    "example_en": "We need a detailed specification.",
+    "example_uk": "Нам потрібна детальна специфікація.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 370,
+    "word": "vague",
+    "translation_uk": "розмитий, нечіткий",
+    "example_en": "The requirements are too vague.",
+    "example_uk": "Вимоги надто розмиті.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 371,
+    "word": "to make a decision",
+    "translation_uk": "ухвалити рішення",
+    "example_en": "We need to make a decision this week.",
+    "example_uk": "Нам треба ухвалити рішення цього тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 372,
+    "word": "to decide on",
+    "translation_uk": "визначитися з",
+    "example_en": "Have you decided on the tech stack?",
+    "example_uk": "Ви визначилися з технологічним стеком?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 373,
+    "word": "final decision",
+    "translation_uk": "остаточне рішення",
+    "example_en": "The final decision is up to you.",
+    "example_uk": "Остаточне рішення за вами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 374,
+    "word": "up to you",
+    "translation_uk": "на ваш розсуд",
+    "example_en": "It's up to you.",
+    "example_uk": "Вирішувати вам.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 375,
+    "word": "to go ahead",
+    "translation_uk": "почати, дати згоду",
+    "example_en": "We're ready to go ahead.",
+    "example_uk": "Ми готові починати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 376,
+    "word": "green light",
+    "translation_uk": "зелене світло, дозвіл",
+    "example_en": "We got the green light from the client.",
+    "example_uk": "Ми отримали зелене світло від клієнта.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 377,
+    "word": "on hold",
+    "translation_uk": "на паузі",
+    "example_en": "The project is on hold until January.",
+    "example_uk": "Проєкт на паузі до січня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 378,
+    "word": "to cancel",
+    "translation_uk": "скасувати",
+    "example_en": "They canceled the second phase.",
+    "example_uk": "Вони скасували другу фазу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 379,
+    "word": "to terminate",
+    "translation_uk": "розірвати (договір)",
+    "example_en": "Either party can terminate the contract with 30 days' notice.",
+    "example_uk": "Будь-яка сторона може розірвати договір, попередивши за 30 днів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 380,
+    "word": "notice period",
+    "translation_uk": "строк попередження",
+    "example_en": "The notice period is one month.",
+    "example_uk": "Строк попередження — один місяць.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 381,
+    "word": "liability",
+    "translation_uk": "відповідальність (юридична)",
+    "example_en": "Our liability is limited to the contract value.",
+    "example_uk": "Наша відповідальність обмежена сумою договору.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 382,
+    "word": "intellectual property",
+    "translation_uk": "інтелектуальна власність",
+    "example_en": "All intellectual property belongs to the client.",
+    "example_uk": "Уся інтелектуальна власність належить клієнту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 383,
+    "word": "clause",
+    "translation_uk": "пункт договору",
+    "example_en": "Let's review the payment clause.",
+    "example_uk": "Давайте переглянемо пункт про оплату.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 384,
+    "word": "to amend",
+    "translation_uk": "внести зміни",
+    "example_en": "We need to amend the contract.",
+    "example_uk": "Нам потрібно внести зміни в договір.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 385,
+    "word": "renewal",
+    "translation_uk": "продовження (договору)",
+    "example_en": "The retainer is up for renewal.",
+    "example_uk": "Ретейнер підлягає продовженню.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 386,
+    "word": "to renew",
+    "translation_uk": "продовжити (договір)",
+    "example_en": "Would you like to renew the contract?",
+    "example_uk": "Ви хочете продовжити договір?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 387,
+    "word": "long-term",
+    "translation_uk": "довгостроковий",
+    "example_en": "We prefer long-term relationships.",
+    "example_uk": "Ми віддаємо перевагу довгостроковим стосункам.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 388,
+    "word": "short-term",
+    "translation_uk": "короткостроковий",
+    "example_en": "It's a short-term fix.",
+    "example_uk": "Це короткострокове рішення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 389,
+    "word": "ongoing",
+    "translation_uk": "поточний, постійний",
+    "example_en": "We provide ongoing support.",
+    "example_uk": "Ми надаємо постійну підтримку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 390,
+    "word": "one-off",
+    "translation_uk": "одноразовий",
+    "example_en": "It's a one-off project.",
+    "example_uk": "Це одноразовий проєкт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 391,
+    "word": "recurring",
+    "translation_uk": "регулярний, повторюваний",
+    "example_en": "It's a recurring problem.",
+    "example_uk": "Це повторювана проблема.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 392,
+    "word": "monthly",
+    "translation_uk": "щомісячний",
+    "example_en": "Here is your monthly report.",
+    "example_uk": "Ось ваш щомісячний звіт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 393,
+    "word": "quarterly",
+    "translation_uk": "щоквартальний",
+    "example_en": "We do quarterly reviews with clients.",
+    "example_uk": "Ми проводимо щоквартальні огляди з клієнтами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 394,
+    "word": "annual",
+    "translation_uk": "річний",
+    "example_en": "They have an annual budget for IT.",
+    "example_uk": "У них є річний бюджет на ІТ.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 395,
+    "word": "to pitch",
+    "translation_uk": "презентувати ідею, продавати",
+    "example_en": "We pitched the idea to their CTO.",
+    "example_uk": "Ми презентували ідею їхньому CTO.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 396,
+    "word": "pitch deck",
+    "translation_uk": "презентація для інвесторів",
+    "example_en": "They asked us to design a pitch deck.",
+    "example_uk": "Вони попросили нас зробити дизайн презентації для інвесторів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 397,
+    "word": "to convince",
+    "translation_uk": "переконати",
+    "example_en": "How can we convince them?",
+    "example_uk": "Як нам їх переконати?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 398,
+    "word": "to persuade",
+    "translation_uk": "переконати, вмовити",
+    "example_en": "We persuaded them to start with an audit.",
+    "example_uk": "Ми переконали їх почати з аудиту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 399,
+    "word": "competitive",
+    "translation_uk": "конкурентний",
+    "example_en": "Our prices are competitive.",
+    "example_uk": "Наші ціни конкурентні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 400,
+    "word": "competitor",
+    "translation_uk": "конкурент",
+    "example_en": "Their competitor launched a similar app.",
+    "example_uk": "Їхній конкурент запустив схожий застосунок.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 401,
+    "word": "advantage",
+    "translation_uk": "перевага",
+    "example_en": "Our main advantage is speed.",
+    "example_uk": "Наша головна перевага — швидкість.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 402,
+    "word": "to stand out",
+    "translation_uk": "вирізнятися",
+    "example_en": "What makes you stand out?",
+    "example_uk": "Чим ви вирізняєтеся?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 403,
+    "word": "unique selling point",
+    "translation_uk": "унікальна торгова пропозиція",
+    "example_en": "What's your unique selling point?",
+    "example_uk": "Яка ваша унікальна торгова пропозиція?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 404,
+    "word": "track record",
+    "translation_uk": "послужний список, досвід",
+    "example_en": "We have a strong track record in mobile.",
+    "example_uk": "У нас сильний досвід у мобільній розробці.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 405,
+    "word": "reputation",
+    "translation_uk": "репутація",
+    "example_en": "Our reputation matters a lot to us.",
+    "example_uk": "Наша репутація для нас дуже важлива.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 406,
+    "word": "testimonial",
+    "translation_uk": "відгук клієнта",
+    "example_en": "Could you write a short testimonial?",
+    "example_uk": "Чи могли б ви написати короткий відгук?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 407,
+    "word": "trust",
+    "translation_uk": "довіра",
+    "example_en": "Trust is the base of our work.",
+    "example_uk": "Довіра — основа нашої роботи.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 408,
+    "word": "to rely on",
+    "translation_uk": "покладатися на",
+    "example_en": "You can rely on us.",
+    "example_uk": "Ви можете на нас покластися.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 409,
+    "word": "commitment",
+    "translation_uk": "зобов'язання, відданість",
+    "example_en": "We're fully committed to this project.",
+    "example_uk": "Ми повністю віддані цьому проєкту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 410,
+    "word": "to commit to",
+    "translation_uk": "взяти зобов'язання",
+    "example_en": "We can't commit to this deadline.",
+    "example_uk": "Ми не можемо взяти на себе цей дедлайн.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 411,
+    "word": "to guarantee",
+    "translation_uk": "гарантувати",
+    "example_en": "We can't guarantee the App Store approval.",
+    "example_uk": "Ми не можемо гарантувати схвалення в App Store.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 412,
+    "word": "to promise",
+    "translation_uk": "обіцяти",
+    "example_en": "I promise we'll fix it today.",
+    "example_uk": "Обіцяю, ми виправимо це сьогодні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 413,
+    "word": "realistic",
+    "translation_uk": "реалістичний",
+    "example_en": "Is this timeline realistic?",
+    "example_uk": "Чи реалістичний цей графік?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 414,
+    "word": "flexible",
+    "translation_uk": "гнучкий",
+    "example_en": "We're flexible with the start date.",
+    "example_uk": "Ми гнучкі щодо дати початку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 415,
+    "word": "firm",
+    "translation_uk": "твердий, остаточний",
+    "example_en": "Is this deadline firm?",
+    "example_uk": "Цей дедлайн остаточний?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 416,
+    "word": "negotiable",
+    "translation_uk": "що обговорюється",
+    "example_en": "The price is negotiable.",
+    "example_uk": "Ціна обговорюється.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 417,
+    "word": "reasonable",
+    "translation_uk": "розумний, обґрунтований",
+    "example_en": "That sounds reasonable.",
+    "example_uk": "Це звучить розумно.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 418,
+    "word": "fair",
+    "translation_uk": "справедливий",
+    "example_en": "I think it's a fair price.",
+    "example_uk": "Думаю, це справедлива ціна.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 419,
+    "word": "affordable",
+    "translation_uk": "доступний за ціною",
+    "example_en": "We want to keep it affordable.",
+    "example_uk": "Ми хочемо, щоб це було доступно за ціною.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 420,
+    "word": "worth it",
+    "translation_uk": "вартий того",
+    "example_en": "The audit is worth it.",
+    "example_uk": "Аудит вартий того.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 421,
+    "word": "to justify",
+    "translation_uk": "обґрунтувати",
+    "example_en": "Can you justify the price?",
+    "example_uk": "Чи можете обґрунтувати ціну?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 422,
+    "word": "to explain",
+    "translation_uk": "пояснити",
+    "example_en": "Let me explain why it takes longer.",
+    "example_uk": "Дозвольте пояснити, чому це займає більше часу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 423,
+    "word": "to mention",
+    "translation_uk": "згадати",
+    "example_en": "As I mentioned, we're busy until May.",
+    "example_uk": "Як я згадував, ми зайняті до травня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 424,
+    "word": "to remind",
+    "translation_uk": "нагадати",
+    "example_en": "Just a quick reminder about the invoice.",
+    "example_uk": "Просто коротке нагадування щодо рахунку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 425,
+    "word": "reminder",
+    "translation_uk": "нагадування",
+    "example_en": "I'll set a reminder for Friday.",
+    "example_uk": "Я поставлю нагадування на п'ятницю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 426,
+    "word": "to update",
+    "translation_uk": "оновити, повідомити новини",
+    "example_en": "I'll update you tomorrow.",
+    "example_uk": "Я повідомлю вам новини завтра.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 427,
+    "word": "update",
+    "translation_uk": "оновлення, новини",
+    "example_en": "Any update on the contract?",
+    "example_uk": "Є новини щодо договору?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 428,
+    "word": "to share",
+    "translation_uk": "поділитися",
+    "example_en": "Could you share your screen?",
+    "example_uk": "Чи могли б ви показати свій екран?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 429,
+    "word": "to forward",
+    "translation_uk": "переслати",
+    "example_en": "I'll forward you their email.",
+    "example_uk": "Я перешлю вам їхній лист.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 430,
+    "word": "to reply",
+    "translation_uk": "відповісти",
+    "example_en": "Sorry for the late reply.",
+    "example_uk": "Вибачте за пізню відповідь.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 431,
+    "word": "to respond",
+    "translation_uk": "відповісти, реагувати",
+    "example_en": "We usually respond within an hour.",
+    "example_uk": "Ми зазвичай відповідаємо протягом години.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 432,
+    "word": "regarding",
+    "translation_uk": "щодо",
+    "example_en": "I'm writing regarding our last call.",
+    "example_uk": "Пишу щодо нашого останнього дзвінка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 433,
+    "word": "in terms of",
+    "translation_uk": "з точки зору",
+    "example_en": "In terms of budget, we're fine.",
+    "example_uk": "З точки зору бюджету, у нас усе гаразд.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 434,
+    "word": "according to",
+    "translation_uk": "згідно з",
+    "example_en": "According to the contract, we have 14 days.",
+    "example_uk": "Згідно з договором, у нас є 14 днів.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 435,
+    "word": "in advance",
+    "translation_uk": "заздалегідь",
+    "example_en": "Thanks in advance!",
+    "example_uk": "Наперед дякую!",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 436,
+    "word": "by the end of the day",
+    "translation_uk": "до кінця дня",
+    "example_en": "I'll send it by the end of the day.",
+    "example_uk": "Я надішлю це до кінця дня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 437,
+    "word": "at your earliest convenience",
+    "translation_uk": "якомога швидше, коли зручно",
+    "example_en": "Please reply at your earliest convenience.",
+    "example_uk": "Будь ласка, відповідайте, щойно буде зручно.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 438,
+    "word": "to be on leave",
+    "translation_uk": "бути у відпустці",
+    "example_en": "Our designer is on leave this week.",
+    "example_uk": "Наш дизайнер цього тижня у відпустці.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 439,
+    "word": "out of office",
+    "translation_uk": "поза офісом",
+    "example_en": "I'll be out of office until Monday.",
+    "example_uk": "Я буду поза офісом до понеділка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 440,
+    "word": "to cover for",
+    "translation_uk": "підміняти",
+    "example_en": "Anna will cover for me.",
+    "example_uk": "Анна мене підмінятиме.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 441,
+    "word": "to join",
+    "translation_uk": "приєднатися",
+    "example_en": "Can our designer join the call?",
+    "example_uk": "Чи може наш дизайнер приєднатися до дзвінка?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 442,
+    "word": "to host",
+    "translation_uk": "проводити (зустріч)",
+    "example_en": "I'll host the meeting.",
+    "example_uk": "Я проведу зустріч.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 443,
+    "word": "to attend",
+    "translation_uk": "відвідати, бути присутнім",
+    "example_en": "Who will attend the workshop?",
+    "example_uk": "Хто буде на воркшопі?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 444,
+    "word": "workshop",
+    "translation_uk": "воркшоп, робоча сесія",
+    "example_en": "We start with a two-day workshop.",
+    "example_uk": "Ми починаємо з дводенного воркшопу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 445,
+    "word": "brainstorm",
+    "translation_uk": "мозковий штурм",
+    "example_en": "Let's brainstorm some ideas.",
+    "example_uk": "Давайте влаштуємо мозковий штурм.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 446,
+    "word": "to present",
+    "translation_uk": "презентувати",
+    "example_en": "We'll present the results on Friday.",
+    "example_uk": "Ми презентуємо результати в п'ятницю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 447,
+    "word": "presentation",
+    "translation_uk": "презентація",
+    "example_en": "The presentation is ready.",
+    "example_uk": "Презентація готова.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 448,
+    "word": "slide",
+    "translation_uk": "слайд",
+    "example_en": "Let's go to the next slide.",
+    "example_uk": "Перейдімо до наступного слайда.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 449,
+    "word": "to mute",
+    "translation_uk": "вимкнути мікрофон",
+    "example_en": "Sorry, I was on mute.",
+    "example_uk": "Вибачте, у мене був вимкнений мікрофон.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 450,
+    "word": "connection",
+    "translation_uk": "з'єднання",
+    "example_en": "My connection is unstable.",
+    "example_uk": "У мене нестабільне з'єднання.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 451,
+    "word": "to hear",
+    "translation_uk": "чути",
+    "example_en": "Can you hear me?",
+    "example_uk": "Ви мене чуєте?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 452,
+    "word": "to repeat",
+    "translation_uk": "повторити",
+    "example_en": "Could you repeat that, please?",
+    "example_uk": "Чи могли б ви повторити, будь ласка?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 453,
+    "word": "to speak up",
+    "translation_uk": "говорити голосніше",
+    "example_en": "Could you speak up a bit?",
+    "example_uk": "Чи могли б ви говорити трохи голосніше?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 454,
+    "word": "to interrupt",
+    "translation_uk": "перебити",
+    "example_en": "Sorry to interrupt.",
+    "example_uk": "Вибачте, що перебиваю.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 455,
+    "word": "to add to that",
+    "translation_uk": "доповнити",
+    "example_en": "If I can add to that…",
+    "example_uk": "Якщо можна доповнити…",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 456,
+    "word": "fair point",
+    "translation_uk": "слушне зауваження",
+    "example_en": "That's a fair point.",
+    "example_uk": "Це слушне зауваження.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 457,
+    "word": "to agree",
+    "translation_uk": "погодитися",
+    "example_en": "I completely agree.",
+    "example_uk": "Я повністю погоджуюся.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 458,
+    "word": "to disagree",
+    "translation_uk": "не погоджуватися",
+    "example_en": "I respectfully disagree.",
+    "example_uk": "З повагою, але не погоджуюся.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 459,
+    "word": "opinion",
+    "translation_uk": "думка",
+    "example_en": "In my opinion, we should wait.",
+    "example_uk": "На мою думку, нам варто почекати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 460,
+    "word": "to make sense",
+    "translation_uk": "мати сенс",
+    "example_en": "Does that make sense?",
+    "example_uk": "Це зрозуміло?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 461,
+    "word": "to be aware of",
+    "translation_uk": "знати про, усвідомлювати",
+    "example_en": "We're aware of the issue.",
+    "example_uk": "Ми знаємо про цю проблему.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 462,
+    "word": "to take into account",
+    "translation_uk": "взяти до уваги",
+    "example_en": "We'll take your feedback into account.",
+    "example_uk": "Ми врахуємо ваш відгук.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 463,
+    "word": "to keep in mind",
+    "translation_uk": "мати на увазі",
+    "example_en": "Please keep in mind that we need access first.",
+    "example_uk": "Будь ласка, майте на увазі, що спершу нам потрібен доступ.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 464,
+    "word": "to depend on",
+    "translation_uk": "залежати від",
+    "example_en": "It depends on the scope.",
+    "example_uk": "Це залежить від обсягу робіт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 465,
+    "word": "in that case",
+    "translation_uk": "у такому разі",
+    "example_en": "In that case, we'll start next week.",
+    "example_uk": "У такому разі почнемо наступного тижня.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 466,
+    "word": "otherwise",
+    "translation_uk": "інакше",
+    "example_en": "Otherwise, we'll miss the deadline.",
+    "example_uk": "Інакше ми не встигнемо до дедлайну.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 467,
+    "word": "however",
+    "translation_uk": "однак",
+    "example_en": "However, there is one risk.",
+    "example_uk": "Однак є один ризик.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 468,
+    "word": "therefore",
+    "translation_uk": "тому",
+    "example_en": "Therefore, we suggest a second phase.",
+    "example_uk": "Тому ми пропонуємо другу фазу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 469,
+    "word": "meanwhile",
+    "translation_uk": "тим часом",
+    "example_en": "Meanwhile, we'll prepare the designs.",
+    "example_uk": "Тим часом ми підготуємо дизайн.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 470,
+    "word": "so far",
+    "translation_uk": "поки що, досі",
+    "example_en": "So far, everything works well.",
+    "example_uk": "Поки що все працює добре.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 471,
+    "word": "in the meantime",
+    "translation_uk": "тим часом",
+    "example_en": "In the meantime, please test the build.",
+    "example_uk": "Тим часом, будь ласка, протестуйте збірку.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 472,
+    "word": "as soon as possible",
+    "translation_uk": "якнайшвидше",
+    "example_en": "We'll fix it as soon as possible.",
+    "example_uk": "Ми виправимо це якнайшвидше.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 473,
+    "word": "on behalf of",
+    "translation_uk": "від імені",
+    "example_en": "I'm writing on behalf of our team.",
+    "example_uk": "Я пишу від імені нашої команди.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 474,
+    "word": "to introduce",
+    "translation_uk": "представити, познайомити",
+    "example_en": "Let me introduce our CTO.",
+    "example_uk": "Дозвольте представити нашого CTO.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 475,
+    "word": "introduction",
+    "translation_uk": "знайомство",
+    "example_en": "Thanks for the introduction!",
+    "example_uk": "Дякую за знайомство!",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 476,
+    "word": "to recommend someone",
+    "translation_uk": "рекомендувати когось",
+    "example_en": "Could you recommend us to other founders?",
+    "example_uk": "Чи могли б ви порекомендувати нас іншим засновникам?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 477,
+    "word": "founder",
+    "translation_uk": "засновник",
+    "example_en": "I'm the founder of a small studio.",
+    "example_uk": "Я засновник невеликої студії.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 478,
+    "word": "co-founder",
+    "translation_uk": "співзасновник",
+    "example_en": "Their co-founder is technical.",
+    "example_uk": "Їхній співзасновник — технічний спеціаліст.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 479,
+    "word": "startup",
+    "translation_uk": "стартап",
+    "example_en": "We often work with early-stage startups.",
+    "example_uk": "Ми часто працюємо з ранніми стартапами.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 480,
+    "word": "investor",
+    "translation_uk": "інвестор",
+    "example_en": "The investors want to see a demo.",
+    "example_uk": "Інвестори хочуть побачити демо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 481,
+    "word": "funding",
+    "translation_uk": "фінансування",
+    "example_en": "They just raised seed funding.",
+    "example_uk": "Вони щойно залучили посівне фінансування.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 482,
+    "word": "revenue",
+    "translation_uk": "дохід, виручка",
+    "example_en": "Their revenue grew by 30%.",
+    "example_uk": "Їхня виручка зросла на 30%.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 483,
+    "word": "profit",
+    "translation_uk": "прибуток",
+    "example_en": "The project was not very profitable.",
+    "example_uk": "Проєкт був не дуже прибутковим.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 484,
+    "word": "margin",
+    "translation_uk": "маржа",
+    "example_en": "Our margin on this project is low.",
+    "example_uk": "Наша маржа на цьому проєкті низька.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 485,
+    "word": "cash flow",
+    "translation_uk": "грошовий потік",
+    "example_en": "Retainers help our cash flow.",
+    "example_uk": "Ретейнери покращують наш грошовий потік.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 486,
+    "word": "growth",
+    "translation_uk": "зростання",
+    "example_en": "We're focused on steady growth.",
+    "example_uk": "Ми зосереджені на стабільному зростанні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 487,
+    "word": "to grow",
+    "translation_uk": "рости, розвивати",
+    "example_en": "We want to grow the team carefully.",
+    "example_uk": "Ми хочемо обережно розширювати команду.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 488,
+    "word": "market",
+    "translation_uk": "ринок",
+    "example_en": "The US market is very competitive.",
+    "example_uk": "Ринок США дуже конкурентний.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 489,
+    "word": "niche",
+    "translation_uk": "ніша",
+    "example_en": "We specialize in a narrow niche.",
+    "example_uk": "Ми спеціалізуємося на вузькій ніші.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 490,
+    "word": "to specialize in",
+    "translation_uk": "спеціалізуватися на",
+    "example_en": "We specialize in mobile and AI.",
+    "example_uk": "Ми спеціалізуємося на мобільній розробці та ШІ.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 491,
+    "word": "industry",
+    "translation_uk": "галузь",
+    "example_en": "Which industry are you in?",
+    "example_uk": "У якій ви галузі?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 492,
+    "word": "to upsell",
+    "translation_uk": "допродати",
+    "example_en": "We could upsell a maintenance plan.",
+    "example_uk": "Ми могли б допродати план супроводу.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 493,
+    "word": "upfront cost",
+    "translation_uk": "початкові витрати",
+    "example_en": "The upfront cost is lower with a phased approach.",
+    "example_uk": "Початкові витрати нижчі при поетапному підході.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 494,
+    "word": "to underestimate",
+    "translation_uk": "недооцінити",
+    "example_en": "We underestimated the integration work.",
+    "example_uk": "Ми недооцінили роботу з інтеграцією.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 495,
+    "word": "to overestimate",
+    "translation_uk": "переоцінити",
+    "example_en": "I think they overestimated the risk.",
+    "example_uk": "Думаю, вони переоцінили ризик.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 496,
+    "word": "buffer",
+    "translation_uk": "запас (часу, бюджету)",
+    "example_en": "We added a 15% buffer to the timeline.",
+    "example_uk": "Ми додали 15% запасу до графіка.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 497,
+    "word": "contingency",
+    "translation_uk": "резерв на непередбачене",
+    "example_en": "There's a contingency budget for risks.",
+    "example_uk": "Є резервний бюджет на ризики.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 498,
+    "word": "to cap",
+    "translation_uk": "обмежити зверху",
+    "example_en": "We can cap the hours at 160 a month.",
+    "example_uk": "Ми можемо обмежити години до 160 на місяць.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 499,
+    "word": "to outweigh",
+    "translation_uk": "переважати",
+    "example_en": "The benefits outweigh the costs.",
+    "example_uk": "Переваги переважають витрати.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 500,
+    "word": "to leverage",
+    "translation_uk": "використати (з вигодою)",
+    "example_en": "We can leverage their existing API.",
+    "example_uk": "Ми можемо використати їхнє наявне API.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 501,
+    "word": "to tailor",
+    "translation_uk": "адаптувати під потреби",
+    "example_en": "We tailor each proposal to the client.",
+    "example_uk": "Ми адаптуємо кожну пропозицію під клієнта.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 502,
+    "word": "custom",
+    "translation_uk": "індивідуальний, на замовлення",
+    "example_en": "We build custom software.",
+    "example_uk": "Ми робимо програмне забезпечення на замовлення.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 503,
+    "word": "off-the-shelf",
+    "translation_uk": "готовий, коробковий",
+    "example_en": "An off-the-shelf solution may be enough.",
+    "example_uk": "Готового рішення може бути достатньо.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 504,
+    "word": "turnaround time",
+    "translation_uk": "час виконання",
+    "example_en": "Our turnaround time for small fixes is one day.",
+    "example_uk": "Час виконання дрібних виправлень — один день.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 505,
+    "word": "lead time",
+    "translation_uk": "час на підготовку",
+    "example_en": "We need two weeks of lead time to start.",
+    "example_uk": "Нам потрібно два тижні на підготовку до старту.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 506,
+    "word": "to wind down",
+    "translation_uk": "поступово згортати",
+    "example_en": "We're winding down the old project.",
+    "example_uk": "Ми поступово згортаємо старий проєкт.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 507,
+    "word": "to ramp up",
+    "translation_uk": "нарощувати",
+    "example_en": "We can ramp up the team in two weeks.",
+    "example_uk": "Ми можемо наростити команду за два тижні.",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 508,
+    "word": "to fit in",
+    "translation_uk": "вписатися, знайти час",
+    "example_en": "Can you fit in a short call today?",
+    "example_uk": "Чи можете знайти час на короткий дзвінок сьогодні?",
+    "added_date": "2026-10-15"
+  },
+  {
+    "id": 509,
+    "word": "to step in",
+    "translation_uk": "втрутитися, підключитися",
+    "example_en": "Our senior developer can step in if needed.",
+    "example_uk": "Наш старший розробник може підключитися, якщо потрібно.",
+    "added_date": "2026-10-15"
+  }
+]
