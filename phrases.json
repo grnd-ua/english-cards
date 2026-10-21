@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "f1",
+    "phrase": "Thanks for taking the time to meet with us.",
+    "translation_uk": "Дякуємо, що знайшли час зустрітися з нами.",
+    "note_uk": "Початок дзвінка чи зустрічі з клієнтом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f2",
+    "phrase": "Can you hear me okay?",
+    "translation_uk": "Вам мене добре чути?",
+    "note_uk": "Перевірка звуку на початку онлайн-дзвінка.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f3",
+    "phrase": "Sorry, you broke up for a second. Could you repeat that?",
+    "translation_uk": "Вибачте, на секунду зник звук. Можете повторити?",
+    "note_uk": "Коли погано чути співрозмовника.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f4",
+    "phrase": "I think you're on mute.",
+    "translation_uk": "Здається, у вас вимкнений мікрофон.",
+    "note_uk": "Ввічливо підказати, що вас не чути.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f5",
+    "phrase": "Let me share my screen.",
+    "translation_uk": "Дозвольте, я покажу свій екран.",
+    "note_uk": "Перед демонстрацією дизайну чи коду.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f6",
+    "phrase": "Shall we get started?",
+    "translation_uk": "Почнімо?",
+    "note_uk": "Ввічливо розпочати зустріч.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f7",
+    "phrase": "Let's start with a quick round of introductions.",
+    "translation_uk": "Почнімо з короткого знайомства.",
+    "note_uk": "Перший дзвінок, коли є нові учасники.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f8",
+    "phrase": "Before we start, let me quickly go through the agenda.",
+    "translation_uk": "Перш ніж почати, коротко пройдуся по порядку денному.",
+    "note_uk": "Структурує зустріч і показує професійність.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f9",
+    "phrase": "The main goal of today's call is to agree on the scope.",
+    "translation_uk": "Головна мета сьогоднішнього дзвінка — узгодити обсяг робіт.",
+    "note_uk": "Одразу задати фокус розмови.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f10",
+    "phrase": "Could you tell us a bit more about your business?",
+    "translation_uk": "Можете розповісти трохи більше про ваш бізнес?",
+    "note_uk": "Ознайомчий дзвінок із новим клієнтом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f11",
+    "phrase": "What problem are you trying to solve?",
+    "translation_uk": "Яку проблему ви намагаєтеся вирішити?",
+    "note_uk": "Ключове запитання на першому дзвінку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f12",
+    "phrase": "Who are your main users?",
+    "translation_uk": "Хто ваші основні користувачі?",
+    "note_uk": "Щоб зрозуміти цільову аудиторію продукту.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f13",
+    "phrase": "What does success look like for you?",
+    "translation_uk": "Що для вас означає успіх цього проєкту?",
+    "note_uk": "Дізнатися критерії успіху клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f14",
+    "phrase": "Do you have a budget range in mind?",
+    "translation_uk": "Ви орієнтуєтеся на якийсь діапазон бюджету?",
+    "note_uk": "Делікатно запитати про бюджет.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f15",
+    "phrase": "When would you like to launch?",
+    "translation_uk": "Коли ви хотіли б запуститися?",
+    "note_uk": "Дізнатися бажані терміни.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f16",
+    "phrase": "Is there a hard deadline we should be aware of?",
+    "translation_uk": "Чи є жорсткий дедлайн, про який нам варто знати?",
+    "note_uk": "Виявити фіксовані дати (виставка, інвестори тощо).",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f17",
+    "phrase": "Who else is involved in the decision?",
+    "translation_uk": "Хто ще бере участь в ухваленні рішення?",
+    "note_uk": "Зрозуміти, хто ухвалює рішення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f18",
+    "phrase": "Could you clarify the scope?",
+    "translation_uk": "Можете уточнити обсяг робіт?",
+    "note_uk": "Коли вимоги нечіткі.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f19",
+    "phrase": "Just to make sure I understand correctly…",
+    "translation_uk": "Просто щоб переконатися, що я правильно розумію…",
+    "note_uk": "Перед тим як переказати своїми словами.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f20",
+    "phrase": "So, if I understand you correctly, you need…",
+    "translation_uk": "Отже, якщо я правильно вас розумію, вам потрібно…",
+    "note_uk": "Підсумувати почуте, щоб уникнути непорозумінь.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f21",
+    "phrase": "What exactly do you mean by \"simple\"?",
+    "translation_uk": "Що саме ви маєте на увазі під «простим»?",
+    "note_uk": "Уточнити розмите формулювання клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f22",
+    "phrase": "Could you give me an example?",
+    "translation_uk": "Можете навести приклад?",
+    "note_uk": "Коли вимога абстрактна.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f23",
+    "phrase": "That's a great question.",
+    "translation_uk": "Чудове запитання.",
+    "note_uk": "Виграти секунду на роздуми перед відповіддю.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f24",
+    "phrase": "Let me think about that for a second.",
+    "translation_uk": "Дайте секунду подумати.",
+    "note_uk": "Коли потрібен час на відповідь.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f25",
+    "phrase": "I'm not sure off the top of my head, but I'll find out.",
+    "translation_uk": "Навскидку не скажу, але я з'ясую.",
+    "note_uk": "Чесно, коли не знаєте відповіді одразу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f26",
+    "phrase": "Let me check with the team and get back to you.",
+    "translation_uk": "Дозвольте уточнити в команди, і я повернуся до вас із відповіддю.",
+    "note_uk": "Не обіцяти нічого без перевірки.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f27",
+    "phrase": "I'll get back to you by the end of the day.",
+    "translation_uk": "Я відповім вам до кінця дня.",
+    "note_uk": "Дати конкретний термін відповіді.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f28",
+    "phrase": "Let's align on the timeline.",
+    "translation_uk": "Давайте узгодимо терміни.",
+    "note_uk": "Синхронізувати очікування щодо дат.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f29",
+    "phrase": "Let's make sure we're on the same page.",
+    "translation_uk": "Давайте переконаємося, що ми однаково все розуміємо.",
+    "note_uk": "Перед завершенням важливого обговорення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f30",
+    "phrase": "Does that make sense?",
+    "translation_uk": "Це зрозуміло?",
+    "note_uk": "Перевірити, чи вас зрозуміли.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f31",
+    "phrase": "Does that work for you?",
+    "translation_uk": "Вам це підходить?",
+    "note_uk": "Запропонувати час, ціну чи рішення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f32",
+    "phrase": "How does Thursday at 3 pm sound?",
+    "translation_uk": "Як вам четвер о 15:00?",
+    "note_uk": "Запропонувати час зустрічі.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f33",
+    "phrase": "Could we move our call to tomorrow?",
+    "translation_uk": "Можемо перенести наш дзвінок на завтра?",
+    "note_uk": "Перенесення зустрічі.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f34",
+    "phrase": "Sorry, something urgent came up.",
+    "translation_uk": "Вибачте, виникла термінова справа.",
+    "note_uk": "Пояснити, чому переносите зустріч.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f35",
+    "phrase": "I'm running a few minutes late.",
+    "translation_uk": "Я запізнююся на кілька хвилин.",
+    "note_uk": "Попередити заздалегідь у чаті.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f36",
+    "phrase": "I have a hard stop at 5.",
+    "translation_uk": "О 17:00 я мушу завершити.",
+    "note_uk": "Попередити, що часу обмежено.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f37",
+    "phrase": "We're running out of time, so let's wrap up.",
+    "translation_uk": "У нас закінчується час, тож давайте підсумуємо.",
+    "note_uk": "Коли зустріч затягується.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f38",
+    "phrase": "Let's take this offline.",
+    "translation_uk": "Давайте обговоримо це окремо (після зустрічі).",
+    "note_uk": "Коли тема не для всіх учасників.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f39",
+    "phrase": "Let's park that for now.",
+    "translation_uk": "Давайте поки відкладемо це питання.",
+    "note_uk": "Повернути зустріч до основної теми.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f40",
+    "phrase": "Let me quickly recap what we agreed.",
+    "translation_uk": "Дозвольте коротко підсумувати, про що ми домовилися.",
+    "note_uk": "Кінець дзвінка — фіксуємо домовленості.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f41",
+    "phrase": "So the next steps are…",
+    "translation_uk": "Отже, наступні кроки такі…",
+    "note_uk": "Завершити зустріч конкретикою.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f42",
+    "phrase": "I'll send a summary after the call.",
+    "translation_uk": "Я надішлю підсумок після дзвінка.",
+    "note_uk": "Обіцянка письмового підсумку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f43",
+    "phrase": "I hope you're doing well.",
+    "translation_uk": "Сподіваюся, у вас усе добре.",
+    "note_uk": "Ввічливий початок листа.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f44",
+    "phrase": "Thank you for getting back to me so quickly.",
+    "translation_uk": "Дякую, що так швидко відповіли.",
+    "note_uk": "Відповідь на швидкий лист клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f45",
+    "phrase": "I'm reaching out regarding…",
+    "translation_uk": "Звертаюся до вас щодо…",
+    "note_uk": "Перший лист незнайомій людині.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f46",
+    "phrase": "I'm writing to follow up on our call.",
+    "translation_uk": "Пишу, щоб продовжити тему нашого дзвінка.",
+    "note_uk": "Лист після дзвінка.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f47",
+    "phrase": "Just following up on my previous email.",
+    "translation_uk": "Просто нагадую про свій попередній лист.",
+    "note_uk": "Ввічливе нагадування, коли немає відповіді.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f48",
+    "phrase": "Just a gentle reminder about…",
+    "translation_uk": "Просто ввічливо нагадую про…",
+    "note_uk": "М'яке нагадування (оплата, файли, відповідь).",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f49",
+    "phrase": "Please find attached the updated proposal.",
+    "translation_uk": "У вкладенні — оновлена пропозиція.",
+    "note_uk": "Офіційний лист із вкладенням.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f50",
+    "phrase": "As discussed on the call, …",
+    "translation_uk": "Як ми обговорили на дзвінку, …",
+    "note_uk": "Посилання на домовленості з дзвінка.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f51",
+    "phrase": "As per our agreement, …",
+    "translation_uk": "Згідно з нашою домовленістю, …",
+    "note_uk": "Офіційно нагадати про домовленості.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f52",
+    "phrase": "Please let me know if you have any questions.",
+    "translation_uk": "Якщо будуть запитання, дайте знати.",
+    "note_uk": "Стандартне завершення листа.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f53",
+    "phrase": "Feel free to reach out if anything is unclear.",
+    "translation_uk": "Звертайтеся, якщо щось незрозуміло.",
+    "note_uk": "Дружнє завершення листа.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f54",
+    "phrase": "I look forward to hearing from you.",
+    "translation_uk": "Чекаю на вашу відповідь.",
+    "note_uk": "Формальне завершення листа.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f55",
+    "phrase": "Looking forward to working with you.",
+    "translation_uk": "З нетерпінням чекаю на співпрацю з вами.",
+    "note_uk": "Після підписання договору чи домовленості.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f56",
+    "phrase": "Apologies for any inconvenience.",
+    "translation_uk": "Перепрошуємо за незручності.",
+    "note_uk": "Офіційне вибачення за проблему.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f57",
+    "phrase": "Could you please confirm by Friday?",
+    "translation_uk": "Можете, будь ласка, підтвердити до п'ятниці?",
+    "note_uk": "Попросити відповідь до конкретної дати.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f58",
+    "phrase": "I've cc'd our project manager.",
+    "translation_uk": "Я додав у копію нашого проєктного менеджера.",
+    "note_uk": "Пояснити, хто ще в листуванні.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f59",
+    "phrase": "I'm looping in Olena, our lead designer.",
+    "translation_uk": "Додаю до розмови Олену, нашого провідного дизайнера.",
+    "note_uk": "Підключити колегу до листування.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f60",
+    "phrase": "Could you share access to the repository?",
+    "translation_uk": "Можете надати доступ до репозиторію?",
+    "note_uk": "Запит доступів на старті проєкту.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f61",
+    "phrase": "We'll prepare an estimate by Wednesday.",
+    "translation_uk": "Ми підготуємо оцінку до середи.",
+    "note_uk": "Пообіцяти оцінку з конкретною датою.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f62",
+    "phrase": "Here's a rough estimate based on what we know so far.",
+    "translation_uk": "Ось приблизна оцінка на основі того, що ми знаємо зараз.",
+    "note_uk": "Коли вимоги ще неповні.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f63",
+    "phrase": "This is a ballpark figure, not a final quote.",
+    "translation_uk": "Це орієнтовна цифра, а не остаточна ціна.",
+    "note_uk": "Захистити себе від сприйняття оцінки як фіксованої.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f64",
+    "phrase": "The estimate depends on the final scope.",
+    "translation_uk": "Оцінка залежить від остаточного обсягу робіт.",
+    "note_uk": "Пояснити, чому ціна може змінитися.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f65",
+    "phrase": "We need a bit more detail to give an accurate estimate.",
+    "translation_uk": "Нам потрібно трохи більше деталей, щоб дати точну оцінку.",
+    "note_uk": "Попросити уточнити вимоги.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f66",
+    "phrase": "Our estimate includes design, development and testing.",
+    "translation_uk": "Наша оцінка включає дизайн, розробку й тестування.",
+    "note_uk": "Пояснити, що входить у ціну.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f67",
+    "phrase": "This doesn't include third-party costs.",
+    "translation_uk": "Це не включає витрати на сторонні сервіси.",
+    "note_uk": "Хостинг, ліцензії, API тощо.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f68",
+    "phrase": "We've included a buffer for unexpected issues.",
+    "translation_uk": "Ми заклали запас на непередбачені проблеми.",
+    "note_uk": "Пояснити, чому оцінка більша за «ідеальну».",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f69",
+    "phrase": "We usually work on a time and materials basis.",
+    "translation_uk": "Зазвичай ми працюємо з оплатою за фактично витрачений час.",
+    "note_uk": "Пояснити модель співпраці.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f70",
+    "phrase": "We can do it for a fixed price if the scope is clearly defined.",
+    "translation_uk": "Ми можемо зробити це за фіксованою ціною, якщо обсяг робіт чітко визначений.",
+    "note_uk": "Умова для фіксованої ціни.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f71",
+    "phrase": "Our hourly rate is $45.",
+    "translation_uk": "Наша погодинна ставка — 45 доларів.",
+    "note_uk": "Назвати ставку впевнено, без вибачень.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f72",
+    "phrase": "We'd need a 30% deposit to get started.",
+    "translation_uk": "Щоб почати, нам потрібна передоплата 30%.",
+    "note_uk": "Умови оплати перед стартом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f73",
+    "phrase": "Payment is due within 14 days of the invoice.",
+    "translation_uk": "Оплата — протягом 14 днів від дати рахунку.",
+    "note_uk": "Умови оплати рахунку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f74",
+    "phrase": "Could you let us know when the payment will be made?",
+    "translation_uk": "Можете повідомити, коли буде здійснено оплату?",
+    "note_uk": "Ввічливо нагадати про оплату.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f75",
+    "phrase": "That's outside the current scope.",
+    "translation_uk": "Це виходить за межі поточного обсягу робіт.",
+    "note_uk": "Коли клієнт просить «ще одну дрібницю».",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f76",
+    "phrase": "We're happy to add it as a change request.",
+    "translation_uk": "Ми охоче додамо це як запит на зміну.",
+    "note_uk": "Погодитися на нову вимогу, але за окрему оплату.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f77",
+    "phrase": "Adding this feature would affect the timeline.",
+    "translation_uk": "Додавання цієї функції вплине на терміни.",
+    "note_uk": "Пояснити наслідки зміни обсягу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f78",
+    "phrase": "We can either extend the deadline or reduce the scope.",
+    "translation_uk": "Ми можемо або подовжити дедлайн, або зменшити обсяг робіт.",
+    "note_uk": "Запропонувати клієнту вибір.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f79",
+    "phrase": "What if we move this feature to phase two?",
+    "translation_uk": "А що, як перенести цю функцію на другий етап?",
+    "note_uk": "Компроміс щодо обсягу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f80",
+    "phrase": "Let's focus on the must-haves for the first release.",
+    "translation_uk": "Давайте зосередимося на обов'язкових функціях для першого релізу.",
+    "note_uk": "Скоротити MVP.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f81",
+    "phrase": "That timeline is quite tight, to be honest.",
+    "translation_uk": "Чесно кажучи, ці терміни досить стислі.",
+    "note_uk": "М'яко сказати, що дедлайн нереальний.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f82",
+    "phrase": "I'm afraid that's not realistic.",
+    "translation_uk": "Боюся, це нереально.",
+    "note_uk": "Ввічлива, але чітка відмова.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f83",
+    "phrase": "To do it properly, we'd need about six weeks.",
+    "translation_uk": "Щоб зробити це якісно, нам потрібно близько шести тижнів.",
+    "note_uk": "Аргументувати свій термін.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f84",
+    "phrase": "We'd rather be realistic than overpromise.",
+    "translation_uk": "Ми краще будемо реалістами, ніж пообіцяємо забагато.",
+    "note_uk": "Пояснити, чому не погоджуєтеся на швидший термін.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f85",
+    "phrase": "What's more important to you: speed or the full feature set?",
+    "translation_uk": "Що для вас важливіше: швидкість чи повний набір функцій?",
+    "note_uk": "Допомогти клієнту визначити пріоритет.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f86",
+    "phrase": "Is there any flexibility on the deadline?",
+    "translation_uk": "Чи є можливість зсунути дедлайн?",
+    "note_uk": "Перевірити, чи дата жорстка.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f87",
+    "phrase": "Is there any flexibility on the budget?",
+    "translation_uk": "Чи є гнучкість щодо бюджету?",
+    "note_uk": "Перевірити, чи можна збільшити бюджет.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f88",
+    "phrase": "We could meet you halfway.",
+    "translation_uk": "Ми могли б піти вам назустріч.",
+    "note_uk": "Запропонувати компроміс.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f89",
+    "phrase": "That's the best we can offer.",
+    "translation_uk": "Це найкраще, що ми можемо запропонувати.",
+    "note_uk": "Остаточна позиція в переговорах.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f90",
+    "phrase": "Let me discuss it with the team and come back with options.",
+    "translation_uk": "Дозвольте обговорити це з командою і повернутися з варіантами.",
+    "note_uk": "Не погоджуватися одразу під тиском.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f91",
+    "phrase": "We can offer a discount if you commit to six months.",
+    "translation_uk": "Ми можемо дати знижку, якщо ви підпишетеся на шість місяців.",
+    "note_uk": "Знижка в обмін на довший договір.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f92",
+    "phrase": "I understand your concern.",
+    "translation_uk": "Я розумію ваше занепокоєння.",
+    "note_uk": "Початок відповіді на заперечення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f93",
+    "phrase": "That's a fair point.",
+    "translation_uk": "Це слушне зауваження.",
+    "note_uk": "Визнати аргумент співрозмовника.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f94",
+    "phrase": "I see where you're coming from, but…",
+    "translation_uk": "Я розумію вашу позицію, але…",
+    "note_uk": "М'яко не погодитися.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f95",
+    "phrase": "Could we look at it from a different angle?",
+    "translation_uk": "Можемо подивитися на це з іншого боку?",
+    "note_uk": "Запропонувати інший погляд.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f96",
+    "phrase": "Let's find a solution that works for both of us.",
+    "translation_uk": "Давайте знайдемо рішення, яке підійде нам обом.",
+    "note_uk": "Налаштувати на співпрацю.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f97",
+    "phrase": "We're on track to deliver by Friday.",
+    "translation_uk": "Ми йдемо за планом і здамо до п'ятниці.",
+    "note_uk": "Позитивний статус-апдейт.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f98",
+    "phrase": "We're slightly behind schedule because of…",
+    "translation_uk": "Ми трохи відстаємо від графіка через…",
+    "note_uk": "Чесно повідомити про затримку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f99",
+    "phrase": "I want to give you a heads-up about a possible delay.",
+    "translation_uk": "Хочу заздалегідь попередити про можливу затримку.",
+    "note_uk": "Повідомити про ризик до того, як він стався.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f100",
+    "phrase": "Here's a quick update on where we are.",
+    "translation_uk": "Ось короткий звіт про те, на якому ми етапі.",
+    "note_uk": "Початок статус-апдейту.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f101",
+    "phrase": "This week we finished the login and payments.",
+    "translation_uk": "Цього тижня ми завершили вхід і оплату.",
+    "note_uk": "Що зроблено — у звіті.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f102",
+    "phrase": "Next week we'll focus on the admin panel.",
+    "translation_uk": "Наступного тижня ми зосередимося на адмін-панелі.",
+    "note_uk": "Що далі — у звіті.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f103",
+    "phrase": "We're currently blocked by the missing API documentation.",
+    "translation_uk": "Зараз нас блокує відсутня документація API.",
+    "note_uk": "Повідомити, що чекаєте на клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f104",
+    "phrase": "We need your feedback by Monday to stay on schedule.",
+    "translation_uk": "Нам потрібен ваш відгук до понеділка, щоб не вибитися з графіка.",
+    "note_uk": "Мотивувати клієнта відповісти вчасно.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f105",
+    "phrase": "The new build is ready for your review.",
+    "translation_uk": "Нова збірка готова для вашого перегляду.",
+    "note_uk": "Попросити клієнта перевірити роботу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f106",
+    "phrase": "Could you test it and let us know what you think?",
+    "translation_uk": "Можете протестувати й поділитися враженнями?",
+    "note_uk": "Запросити фідбек.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f107",
+    "phrase": "What do you think of the new design?",
+    "translation_uk": "Що ви думаєте про новий дизайн?",
+    "note_uk": "Відкрите запитання для відгуку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f108",
+    "phrase": "Is there anything you'd like us to change?",
+    "translation_uk": "Чи є щось, що ви хотіли б змінити?",
+    "note_uk": "Запросити правки.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f109",
+    "phrase": "Thank you for the detailed feedback.",
+    "translation_uk": "Дякую за детальний відгук.",
+    "note_uk": "Відповідь на фідбек клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f110",
+    "phrase": "We'll take that into account in the next version.",
+    "translation_uk": "Ми врахуємо це в наступній версії.",
+    "note_uk": "Пообіцяти врахувати зауваження.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f111",
+    "phrase": "Could you be a bit more specific?",
+    "translation_uk": "Можете бути трохи конкретнішим?",
+    "note_uk": "Коли відгук на кшталт «мені не подобається».",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f112",
+    "phrase": "Could you send us a screenshot?",
+    "translation_uk": "Можете надіслати нам скриншот?",
+    "note_uk": "Коли клієнт повідомляє про баг.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f113",
+    "phrase": "We're looking into it right now.",
+    "translation_uk": "Ми зараз з цим розбираємося.",
+    "note_uk": "Швидка відповідь на проблему.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f114",
+    "phrase": "We've identified the issue and we're working on a fix.",
+    "translation_uk": "Ми знайшли причину проблеми й працюємо над виправленням.",
+    "note_uk": "Статус під час інциденту.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f115",
+    "phrase": "The issue has been fixed. Could you check on your side?",
+    "translation_uk": "Проблему виправлено. Можете перевірити з вашого боку?",
+    "note_uk": "Після виправлення бага.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f116",
+    "phrase": "Sorry about that, it's on us.",
+    "translation_uk": "Вибачте, це наша провина.",
+    "note_uk": "Чесно визнати помилку.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f117",
+    "phrase": "I really appreciate your help with this.",
+    "translation_uk": "Я дуже ціную вашу допомогу в цьому.",
+    "note_uk": "Подякувати клієнту чи партнеру.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f118",
+    "phrase": "Congratulations on the launch!",
+    "translation_uk": "Вітаю із запуском!",
+    "note_uk": "Привітати клієнта з релізом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f119",
+    "phrase": "Let's schedule a follow-up call next week.",
+    "translation_uk": "Давайте заплануємо повторний дзвінок наступного тижня.",
+    "note_uk": "Не залишити розмову без продовження.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f120",
+    "phrase": "I wanted to check in and see how things are going.",
+    "translation_uk": "Хотів поцікавитися, як у вас справи з проєктом.",
+    "note_uk": "М'який follow-up із клієнтом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f121",
+    "phrase": "Have you had a chance to look at the proposal?",
+    "translation_uk": "Чи мали ви можливість переглянути пропозицію?",
+    "note_uk": "Нагадування після надсилання пропозиції.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f122",
+    "phrase": "Is there anything else you need from us?",
+    "translation_uk": "Вам ще щось потрібно від нас?",
+    "note_uk": "Зняти можливі блокери з боку клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f123",
+    "phrase": "Just checking if this is still a priority for you.",
+    "translation_uk": "Просто уточнюю, чи це досі для вас пріоритет.",
+    "note_uk": "Коли клієнт довго мовчить.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f124",
+    "phrase": "I'd love to hear your thoughts.",
+    "translation_uk": "Буду радий почути вашу думку.",
+    "note_uk": "Запросити до обговорення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f125",
+    "phrase": "Who would be the best person to talk to about this?",
+    "translation_uk": "З ким найкраще поговорити про це?",
+    "note_uk": "Знайти правильну людину в компанії.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f126",
+    "phrase": "Would you be open to a quick call?",
+    "translation_uk": "Чи не проти ви короткого дзвінка?",
+    "note_uk": "Запросити на дзвінок у холодному листі.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f127",
+    "phrase": "We specialize in web and mobile apps for startups.",
+    "translation_uk": "Ми спеціалізуємося на веб- і мобільних застосунках для стартапів.",
+    "note_uk": "Коротко представити студію.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f128",
+    "phrase": "We've built similar products for clients in fintech.",
+    "translation_uk": "Ми створювали схожі продукти для клієнтів у фінтеху.",
+    "note_uk": "Показати релевантний досвід.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f129",
+    "phrase": "I can send you a couple of relevant case studies.",
+    "translation_uk": "Можу надіслати вам кілька релевантних кейсів.",
+    "note_uk": "Підкріпити довіру прикладами.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f130",
+    "phrase": "Our team is based in Ukraine.",
+    "translation_uk": "Наша команда знаходиться в Україні.",
+    "note_uk": "Розповісти про команду.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f131",
+    "phrase": "We overlap with your working hours until 2 pm EST.",
+    "translation_uk": "Наш робочий час збігається з вашим до 14:00 за EST.",
+    "note_uk": "Зняти сумнів щодо часових поясів.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f132",
+    "phrase": "We'll assign a dedicated project manager to your project.",
+    "translation_uk": "Ми призначимо на ваш проєкт окремого проєктного менеджера.",
+    "note_uk": "Пояснити, як буде організована комунікація.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f133",
+    "phrase": "You'll get a weekly progress report.",
+    "translation_uk": "Ви отримуватимете щотижневий звіт про хід робіт.",
+    "note_uk": "Пояснити прозорість процесу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f134",
+    "phrase": "Who should I contact on your side for design questions?",
+    "translation_uk": "До кого з вашого боку звертатися з питань дизайну?",
+    "note_uk": "Визначити контактну особу.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f135",
+    "phrase": "I'll keep you in the loop.",
+    "translation_uk": "Я триматиму вас у курсі.",
+    "note_uk": "Пообіцяти інформувати.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f136",
+    "phrase": "Could you walk me through the current process?",
+    "translation_uk": "Можете провести мене через ваш поточний процес?",
+    "note_uk": "Розібратися, як клієнт працює зараз.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f137",
+    "phrase": "What's the biggest pain point right now?",
+    "translation_uk": "Що зараз найбільше болить?",
+    "note_uk": "Знайти головну проблему клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f138",
+    "phrase": "Have you worked with an outsourcing team before?",
+    "translation_uk": "Ви вже працювали з аутсорсинговою командою?",
+    "note_uk": "Зрозуміти досвід і очікування клієнта.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f139",
+    "phrase": "What didn't work well last time?",
+    "translation_uk": "Що не спрацювало минулого разу?",
+    "note_uk": "Не повторити помилки попереднього підрядника.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f140",
+    "phrase": "We'd recommend starting with a short discovery phase.",
+    "translation_uk": "Ми рекомендуємо почати з короткого етапу дослідження.",
+    "note_uk": "Продати discovery замість одразу великої оцінки.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f141",
+    "phrase": "That's a good idea, but it may add complexity.",
+    "translation_uk": "Ідея хороша, але це може ускладнити проєкт.",
+    "note_uk": "М'яко застерегти від зайвої функції.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f142",
+    "phrase": "From a technical point of view, …",
+    "translation_uk": "З технічного погляду, …",
+    "note_uk": "Ввести технічне пояснення.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f143",
+    "phrase": "In simple terms, …",
+    "translation_uk": "Простими словами, …",
+    "note_uk": "Пояснити технічне нетехнічному клієнту.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f144",
+    "phrase": "The short answer is yes, but there's a catch.",
+    "translation_uk": "Коротко — так, але є нюанс.",
+    "note_uk": "Чесно сказати про обмеження.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f145",
+    "phrase": "We'll need to do some research first.",
+    "translation_uk": "Спершу нам потрібно провести дослідження.",
+    "note_uk": "Коли відповідь невідома.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f146",
+    "phrase": "It depends on a few factors.",
+    "translation_uk": "Це залежить від кількох чинників.",
+    "note_uk": "Перед поясненням, від чого залежить відповідь.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f147",
+    "phrase": "I'll put it in writing.",
+    "translation_uk": "Я зафіксую це письмово.",
+    "note_uk": "Закріпити домовленість листом.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f148",
+    "phrase": "Could you approve this so we can move forward?",
+    "translation_uk": "Можете це погодити, щоб ми могли рухатися далі?",
+    "note_uk": "Попросити погодження.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f149",
+    "phrase": "Once we get your approval, we'll start right away.",
+    "translation_uk": "Щойно отримаємо ваше погодження, одразу почнемо.",
+    "note_uk": "Мотивувати швидко погодити.",
+    "added_date": "2026-10-21"
+  },
+  {
+    "id": "f150",
+    "phrase": "Thanks again, and have a great weekend!",
+    "translation_uk": "Ще раз дякую, і гарних вихідних!",
+    "note_uk": "Дружнє завершення листа в п'ятницю.",
+    "added_date": "2026-10-21"
+  }
+]
