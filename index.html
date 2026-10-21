@@ -30,9 +30,9 @@ const active=()=>words.filter(w=>!known.includes(w.word.toLowerCase()));
 const UKEY='ec_unlock_v1',DAILY=10;
 function dkey(){const d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
 let U=JSON.parse(localStorage.getItem(UKEY)||'null');
-function unlock(){const a=active();if(!U){U={date:dkey(),ids:[]};}
- if(U.date!==dkey()||!U.ids.length){const left=a.filter(w=>U.ids.includes(w.id)&&!P[w.id]).length;let n=Math.max(0,DAILY-left);
-  for(const w of a){if(!n)break;if(!U.ids.includes(w.id)&&!P[w.id]){U.ids.push(w.id);n--}}U.date=dkey();localStorage.setItem(UKEY,JSON.stringify(U))}}
+function unlock(){const a=active();if(!U){U={date:dkey(),ids:[]};}if(!U.start)U.start='2026-10-16';
+ const sp=U.start.split('-'),s0=new Date(+sp[0],sp[1]-1,+sp[2]).getTime();let n=Math.max(0,DAILY*(Math.round((today()-s0)/DAY)+1)-U.ids.length);
+ if(n||U.date!==dkey()){for(const w of a){if(!n)break;if(!U.ids.includes(w.id)&&!P[w.id]){U.ids.push(w.id);n--}}U.date=dkey();localStorage.setItem(UKEY,JSON.stringify(U))}}
 function queue(){unlock();return active().filter(w=>{const s=st(w);return (s.status==='new'&&(P[w.id]||U.ids.includes(w.id)))||(s.status==='review'&&s.due<=today())})}
 function know(w){P[w.id]={status:'learned',level:INTERVALS.length,due:0,ls:Date.now()};save();flipped=false;render()}
 function learned(w){const s=st(w);if(s.level>=INTERVALS.length){P[w.id]={status:'learned',level:s.level,due:0,ls:Date.now()}}else{P[w.id]={status:'review',level:s.level+1,due:today()+INTERVALS[s.level]*DAY,ls:Date.now()}}save();flipped=false;render()}
