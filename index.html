@@ -64,6 +64,7 @@ function cloze(w){
 const norm=s=>s.toLowerCase().replace(/[’']/g,"'").replace(/[^a-z0-9' -]/g,'').replace(/^to /,'').replace(/-/g,' ').trim().split(/\s+/);
 function okAns(inp,w,c){const a=norm(inp).filter(t=>!PH.test(t));const tgts=[norm(c.ans),norm(w.word).filter(t=>!PH.test(t))];return tgts.some(t=>t.length===a.length&&t.every((x,i)=>x===a[i]||stem(x)===stem(a[i])))}
 const opened=()=>active().filter(w=>U.ids.includes(w.id)||P[w.id]);
+const passed=()=>active().filter(w=>P[w.id]);
 const FSTART='2026-10-21',FDAILY=3;
 const pOpen=()=>{const p=FSTART.split('-');return phrases.slice(0,Math.max(0,FDAILY*(Math.round((today()-new Date(+p[0],p[1]-1,+p[2]).getTime())/DAY)+1)))};
 const pQueue=()=>pOpen().filter(f=>{const s=st(f);return s.status==='new'||(s.status==='review'&&s.due<=today())});
@@ -71,7 +72,7 @@ const acts=n=>`<div class="acts"><button class="again" id="ag">Повторит�
 const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const MODES={rev:['Зворотні картки','Українською → згадайте англійське слово'],cloze:['Пропущене слово','Впишіть слово в речення'],dict:['Диктант на слух','Прослухайте й напишіть слово']};
 let T=null;
-function tStart(m){const p=shuffle(opened().filter(w=>m!=='cloze'||cloze(w))).slice(0,10);if(!p.length)return;T={m,ids:p.map(w=>w.id),i:0,sc:0,res:null};flipped=false;render();if(m==='dict')say(p[0].word)}
+function tStart(m){const p=shuffle(passed().filter(w=>m!=='cloze'||cloze(w))).slice(0,10);if(!p.length)return;T={m,ids:p.map(w=>w.id),i:0,sc:0,res:null};flipped=false;render();if(m==='dict')say(p[0].word)}
 function tNext(ok){if(ok)T.sc++;T.i++;T.res=null;flipped=false;render();const w=T&&words.find(x=>x.id===T.ids[T.i]);if(w&&T.m==='dict')say(w.word)}
 const spk=(id,t)=>{const b=document.getElementById(id);if(b)b.onclick=e=>{e.stopPropagation();say(t)}};
 function render(){
@@ -101,8 +102,8 @@ function render(){
   m.innerHTML=info+`<div class="card" id="card"><div class="word" style="font-size:26px">${esc(f.phrase)} <button class="spk" id="sw">🔊</button></div>${flipped?`<div class="tr">${esc(f.translation_uk)}</div><div class="ex">${esc(f.note_uk)}</div>`:'<div class="hint">Торкніться, щоб побачити переклад</div>'}</div>`+acts(q.length);
   card.onclick=()=>{flipped=!flipped;render()};spk('sw',f.phrase);ok.onclick=()=>learned(f);kn.onclick=()=>know(f);ag.onclick=()=>again(f);
  }else if(tab==='train'&&!T){
-  const n=opened().length;
-  m.innerHTML=`<div class="stats" style="margin-bottom:12px">Тренуємо лише відкриті слова (${n}). Розклад повторень не змінюється.</div>`+Object.entries(MODES).map(([k,v])=>`<button class="mode" data-m="${k}"><b>${v[0]}</b><span>${v[1]}</span></button>`).join('');
+  const n=passed().length;
+  m.innerHTML=`<div class="stats" style="margin-bottom:12px">Тренуємо лише пройдені слова (${n}). Розклад повторень не змінюється.</div>`+Object.entries(MODES).map(([k,v])=>`<button class="mode" data-m="${k}"><b>${v[0]}</b><span>${v[1]}</span></button>`).join('');
   m.querySelectorAll('[data-m]').forEach(b=>b.onclick=()=>tStart(b.dataset.m));
  }else if(tab==='train'&&T.i>=T.ids.length){
   m.innerHTML=`<div class="card"><div class="hint">${MODES[T.m][0]}</div><div class="word">${T.sc} з ${T.ids.length}</div><div class="ex">${T.sc===T.ids.length?'Чудово! 🎉':T.sc>=T.ids.length*.7?'Добрий результат 👍':'Варто ще потренуватися 💪'}</div></div><div class="acts"><button class="again" id="tm">Інший режим</button><button class="ok" id="tr">Ще раунд</button></div>`;
