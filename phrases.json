@@ -14,6 +14,335 @@
     "added_date": "2026-10-21"
   },
   {
+    "id": "i1",
+    "phrase": "I've been working as a Flutter developer for six years.",
+    "translation_uk": "Я працюю Flutter-розробником шість років.",
+    "note_uk": "Початок розповіді про себе.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i2",
+    "phrase": "I'm based in Poland.",
+    "translation_uk": "Я живу в Польщі.",
+    "note_uk": "Відповідь на «where are you based?» — не пропускай цю частину питання.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i3",
+    "phrase": "I run a small development studio called GRND.",
+    "translation_uk": "Я керую невеликою студією розробки GRND.",
+    "note_uk": "Вимовляй назву по літерах: G-R-N-D.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i4",
+    "phrase": "We build mobile and web apps for businesses.",
+    "translation_uk": "Ми робимо мобільні й веб-застосунки для бізнесу.",
+    "note_uk": "Про студію — одним реченням.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i5",
+    "phrase": "Before that, I worked at Riversoft as a front-end developer.",
+    "translation_uk": "До того я працював у Riversoft фронтенд-розробником.",
+    "note_uk": "worked AT company, AS developer.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i6",
+    "phrase": "I've shipped more than ten apps to the App Store and Google Play.",
+    "translation_uk": "Я випустив понад десять застосунків у App Store і Google Play.",
+    "note_uk": "Сильний факт для розповіді про себе.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i7",
+    "phrase": "Lately I've been working on a banking app.",
+    "translation_uk": "Останнім часом я працюю над банківським застосунком.",
+    "note_uk": "Кінець розповіді про себе — місток до питань про проєкти.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i8",
+    "phrase": "I'm looking for a long-term product team where I can focus on engineering.",
+    "translation_uk": "Я шукаю команду з довгим продуктом, де зможу зосередитися на розробці.",
+    "note_uk": "Чому шукаєш роботу, маючи студію.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i9",
+    "phrase": "Running a studio means a lot of sales and management, and I miss deep technical work.",
+    "translation_uk": "Студія — це багато продажів і менеджменту, а мені бракує глибокої технічної роботи.",
+    "note_uk": "Чесна відповідь «чому зараз».",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i10",
+    "phrase": "It was a companion app for a smartwatch.",
+    "translation_uk": "Це був застосунок-компаньйон для смарт-годинника.",
+    "note_uk": "Перше речення розповіді про проєкт.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i11",
+    "phrase": "My main task was to build a Flutter plugin that wraps the native SDKs.",
+    "translation_uk": "Моїм головним завданням було зробити Flutter-плагін, який обгортає нативні SDK.",
+    "note_uk": "Твоя роль у проєкті.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i12",
+    "phrase": "The manufacturer provided two SDKs, one for Android and one for iOS.",
+    "translation_uk": "Виробник надав два SDK: для Android і для iOS.",
+    "note_uk": "Контекст: чому знадобився власний плагін.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i13",
+    "phrase": "There was no existing package for this watch, so I had to write my own.",
+    "translation_uk": "Готового пакета для цього годинника не було, тож довелося написати свій.",
+    "note_uk": "Відповідь на «why didn't you use an existing package?»",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i14",
+    "phrase": "The Dart side talks to the native code through method and event channels.",
+    "translation_uk": "Dart-частина спілкується з нативним кодом через канали методів і подій.",
+    "note_uk": "Як Dart зв'язаний з нативом.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i15",
+    "phrase": "The hardest part was communicating with the hardware team in China.",
+    "translation_uk": "Найскладнішим було спілкування з командою пристрою в Китаї.",
+    "note_uk": "Найскладніше в проєкті.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i16",
+    "phrase": "We had to test everything on real devices, because the emulator couldn't connect to the watch.",
+    "translation_uk": "Ми мусили все тестувати на реальних пристроях, бо емулятор не міг підключитися до годинника.",
+    "note_uk": "Замість «liveness test».",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i17",
+    "phrase": "If I did it again, I would agree on the API contract first.",
+    "translation_uk": "Якби робив знову, я б спершу домовився про контракт API.",
+    "note_uk": "«What would you do differently?»",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i18",
+    "phrase": "Flutter calls initState once, when the State object is created.",
+    "translation_uk": "Flutter викликає initState один раз, коли створюється об'єкт State.",
+    "note_uk": "Життєвий цикл, крок 1.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i19",
+    "phrase": "Then it calls didChangeDependencies and build.",
+    "translation_uk": "Потім викликає didChangeDependencies і build.",
+    "note_uk": "Життєвий цикл, крок 2.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i20",
+    "phrase": "Build runs again after setState, didUpdateWidget, or when an inherited dependency changes.",
+    "translation_uk": "Build виконується знову після setState, didUpdateWidget або коли змінюється успадкована залежність.",
+    "note_uk": "Три причини перебудови.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i21",
+    "phrase": "In dispose, I clean up controllers and subscriptions to avoid memory leaks.",
+    "translation_uk": "У dispose я прибираю контролери й підписки, щоб уникнути витоків пам'яті.",
+    "note_uk": "Життєвий цикл, кінець.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i22",
+    "phrase": "First, I'd open DevTools and check which widgets rebuild.",
+    "translation_uk": "Спершу я б відкрив DevTools і подивився, які віджети перебудовуються.",
+    "note_uk": "Як шукати причину зайвих перебудов.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i23",
+    "phrase": "If the whole screen rebuilds, I move the state down to a smaller widget.",
+    "translation_uk": "Якщо перебудовується весь екран, я опускаю стан у менший віджет.",
+    "note_uk": "Як виправити зайві перебудови.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i24",
+    "phrase": "After an await, the widget might not be mounted anymore, so I check mounted first.",
+    "translation_uk": "Після await віджета вже може не бути в дереві, тому я спершу перевіряю mounted.",
+    "note_uk": "Ризик BuildContext після await.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i25",
+    "phrase": "A Future runs on the same thread. An isolate runs in parallel, with its own memory.",
+    "translation_uk": "Future працює в тому самому потоці. Ізолят — паралельно, з власною пам'яттю.",
+    "note_uk": "Різниця Future та Isolate.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i26",
+    "phrase": "I use an isolate for heavy work, like parsing a big JSON or processing images.",
+    "translation_uk": "Ізолят я використовую для важкої роботи: розбір великого JSON чи обробка зображень.",
+    "note_uk": "Коли потрібен ізолят.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i27",
+    "phrase": "For a small app I'd use Provider, because it needs less code.",
+    "translation_uk": "Для малого застосунку я б узяв Provider, бо там менше коду.",
+    "note_uk": "Provider чи BLoC — частина 1.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i28",
+    "phrase": "For a larger app I'd use BLoC, because it separates the logic and it's easy to test.",
+    "translation_uk": "Для більшого застосунку я б узяв BLoC, бо він відділяє логіку і його легко тестувати.",
+    "note_uk": "Provider чи BLoC — частина 2.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i29",
+    "phrase": "The UI sends an event, and the bloc emits a new state.",
+    "translation_uk": "Інтерфейс надсилає подію, а блок видає новий стан.",
+    "note_uk": "BLoC одним реченням.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i30",
+    "phrase": "A key helps Flutter match widgets with their elements, so that the state stays in the right place.",
+    "translation_uk": "Ключ допомагає Flutter зіставити віджети з елементами, щоб стан лишався на своєму місці.",
+    "note_uk": "Навіщо ключі. Вимова: keys [kiːz], не «case».",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i31",
+    "phrase": "I store tokens in secure storage, never in plain shared preferences.",
+    "translation_uk": "Токени я зберігаю в захищеному сховищі, ніколи у звичайних shared preferences.",
+    "note_uk": "Безпечне зберігання.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i32",
+    "phrase": "First, I would revoke the key. Then I'd rotate all secrets and clean the git history.",
+    "translation_uk": "Спершу я б відкликав ключ. Потім замінив би всі секрети й почистив історію git.",
+    "note_uk": "Якщо закомітив секрет.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i33",
+    "phrase": "I use AI tools every day, but I always review and test the code they generate.",
+    "translation_uk": "Я щодня використовую AI-інструменти, але завжди перевіряю й тестую згенерований ними код.",
+    "note_uk": "Про AI як навичку.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i34",
+    "phrase": "I learn mostly from the official docs, release notes and real projects.",
+    "translation_uk": "Я вчуся здебільшого з офіційної документації, приміток до релізів і реальних проєктів.",
+    "note_uk": "Як ти вчишся.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i35",
+    "phrase": "There are two main reasons. First, … Second, …",
+    "translation_uk": "Є дві головні причини. По-перше, … По-друге, …",
+    "note_uk": "Каркас для будь-якої відповіді «чому».",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i36",
+    "phrase": "That's a good question. Let me think for a second.",
+    "translation_uk": "Гарне питання. Дайте подумати секунду.",
+    "note_uk": "Замість мовчання чи «um».",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i37",
+    "phrase": "Let me put it another way.",
+    "translation_uk": "Скажу інакше.",
+    "note_uk": "Коли застряг — не переходь на українську.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i38",
+    "phrase": "Sorry, could you rephrase that, please?",
+    "translation_uk": "Вибачте, могли б ви переформулювати?",
+    "note_uk": "Якщо не зрозумів питання.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i39",
+    "phrase": "Do you mean the widget tree or the element tree?",
+    "translation_uk": "Ви маєте на увазі дерево віджетів чи дерево елементів?",
+    "note_uk": "Уточнювальне питання.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i40",
+    "phrase": "I haven't used it in production, but I know the idea.",
+    "translation_uk": "Я не використовував це в продакшені, але знаю ідею.",
+    "note_uk": "Чесно, коли чогось не знаєш.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i41",
+    "phrase": "First, I'll create the login screen with a form.",
+    "translation_uk": "Спершу я створю екран входу з формою.",
+    "note_uk": "Живе кодування: кажи, що робиш.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i42",
+    "phrase": "Now I'm adding email validation.",
+    "translation_uk": "Тепер додаю перевірку email.",
+    "note_uk": "Живе кодування.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i43",
+    "phrase": "Let me check the docs for the exact name.",
+    "translation_uk": "Гляну в документацію точну назву.",
+    "note_uk": "Живе кодування: це нормально.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i44",
+    "phrase": "Let me clean this up a bit.",
+    "translation_uk": "Дайте трохи приберу код.",
+    "note_uk": "Живе кодування, наприкінці.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i45",
+    "phrase": "What does a typical day look like for the team?",
+    "translation_uk": "Як виглядає типовий день команди?",
+    "note_uk": "Питання до інтерв'юера.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i46",
+    "phrase": "What are the biggest technical challenges in this project right now?",
+    "translation_uk": "Які зараз найбільші технічні виклики в цьому проєкті?",
+    "note_uk": "Питання до інтерв'юера.",
+    "added_date": "2026-11-23"
+  },
+  {
+    "id": "i47",
+    "phrase": "What would you expect from me in the first month?",
+    "translation_uk": "Чого ви чекатимете від мене в перший місяць?",
+    "note_uk": "Питання до інтерв'юера.",
+    "added_date": "2026-11-23"
+  },
+  {
     "id": "f3",
     "phrase": "Sorry, you broke up for a second. Could you repeat that?",
     "translation_uk": "Вибачте, на секунду зник звук. Можете повторити?",
